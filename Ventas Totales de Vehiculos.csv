@@ -1,0 +1,1932 @@
+codigo_producto;sucursal;precio_venta;fecha_venta;nombe-producto;costo;Utilidad
+K;Memphis;16569.45;miércoles 23 de agosto de 2017;Toyota;509328;-492758.55
+S;Memphis;30608.98;domingo 03 de septiembre de 2017;Peugeot;287741;-257132.02
+L;Memphis;1330.66;domingo 12 de marzo de 2017;Volkswagen;478975;-477644.34
+H;Memphis;9036;sábado 12 de agosto de 2017;Renault;417019;-407983
+H;Memphis;31951.23;miércoles 21 de junio de 2017;Renault;417019;-385067.77
+L;Memphis;17532.77;sábado 22 de julio de 2017;Volkswagen;478975;-461442.23
+I;Memphis;23693.63;jueves 09 de noviembre de 2017;Hyundai;121889;-98195.37
+B;Memphis;18676.16;miércoles 14 de junio de 2017;Audi;506811;-488134.84
+M;Memphis;38929.06;domingo 25 de junio de 2017;Mazda;327078;-288148.94
+C;Memphis;14321.24;martes 28 de marzo de 2017;Ford;145385;-131063.76
+Q;Memphis;47487.72;miércoles 13 de diciembre de 2017;Suzuki;121590;-74102.28
+K;Memphis;20182.67;domingo 05 de marzo de 2017;Toyota;509328;-489145.33
+T;Memphis;23560.73;sábado 28 de enero de 2017;Isuzu;288473;-264912.27
+A;Memphis;18557.14;miércoles 14 de junio de 2017;Mercedes-Benz;665685;-647127.86
+T;Memphis;6487.73;domingo 20 de agosto de 2017;Isuzu;288473;-281985.27
+R;Memphis;40678.28;sábado 18 de febrero de 2017;Seat;3396;37282.28
+J;Memphis;31022.84;lunes 28 de agosto de 2017;Mitsubishi;362567;-331544.16
+G;Memphis;3658.21;martes 02 de mayo de 2017;Jeep;62985;-59326.79
+T;Memphis;12866.35;martes 03 de enero de 2017;Isuzu;288473;-275606.65
+R;Memphis;38191.93;miércoles 22 de marzo de 2017;Seat;3396;34795.93
+G;Memphis;42860.23;martes 24 de octubre de 2017;Jeep;62985;-20124.77
+R;Memphis;1600.02;lunes 28 de agosto de 2017;Seat;3396;-1795.98
+P;Memphis;28516.83;miércoles 07 de junio de 2017;Volvo;579877;-551360.17
+H;Memphis;39390.72;lunes 06 de marzo de 2017;Renault;417019;-377628.28
+C;Memphis;44977.28;viernes 29 de diciembre de 2017;Ford;145385;-100407.72
+B;Memphis;31942.19;martes 19 de septiembre de 2017;Audi;506811;-474868.81
+S;Memphis;25757.65;martes 07 de marzo de 2017;Peugeot;287741;-261983.35
+M;Memphis;30961.68;jueves 09 de marzo de 2017;Mazda;327078;-296116.32
+K;Memphis;44233.66;domingo 22 de enero de 2017;Toyota;509328;-465094.34
+I;Memphis;4530.49;miércoles 08 de febrero de 2017;Hyundai;121889;-117358.51
+M;Memphis;25544.13;martes 28 de febrero de 2017;Mazda;327078;-301533.87
+S;Memphis;9425.78;jueves 01 de junio de 2017;Peugeot;287741;-278315.22
+M;Memphis;20111.75;viernes 03 de febrero de 2017;Mazda;327078;-306966.25
+K;Memphis;22503.74;jueves 18 de mayo de 2017;Toyota;509328;-486824.26
+D;Memphis;1543.88;miércoles 22 de febrero de 2017;Jaguar;384724;-383180.12
+P;Memphis;1076.99;sábado 24 de junio de 2017;Volvo;579877;-578800.01
+Q;Memphis;11966.7;domingo 05 de noviembre de 2017;Suzuki;121590;-109623.3
+F;Memphis;23355.79;martes 12 de septiembre de 2017;Citroen;361084;-337728.21
+K;Memphis;48090.86;martes 26 de septiembre de 2017;Toyota;509328;-461237.14
+S;Memphis;1214.97;martes 30 de mayo de 2017;Peugeot;287741;-286526.03
+O;Memphis;15658.89;viernes 11 de agosto de 2017;Fiat;117711;-102052.11
+Q;Memphis;30098.04;domingo 27 de agosto de 2017;Suzuki;121590;-91491.96
+G;Memphis;17097.96;viernes 17 de noviembre de 2017;Jeep;62985;-45887.04
+Q;Memphis;43799.62;domingo 03 de septiembre de 2017;Suzuki;121590;-77790.38
+F;Memphis;45928.04;martes 15 de agosto de 2017;Citroen;361084;-315155.96
+F;Memphis;39504.52;jueves 15 de junio de 2017;Citroen;361084;-321579.48
+I;Memphis;21387.54;domingo 03 de septiembre de 2017;Hyundai;121889;-100501.46
+C;Memphis;6741.2;sábado 18 de noviembre de 2017;Ford;145385;-138643.8
+C;Memphis;10372.18;domingo 20 de agosto de 2017;Ford;145385;-135012.82
+H;Memphis;41699.89;lunes 06 de febrero de 2017;Renault;417019;-375319.11
+K;Memphis;32035.36;viernes 03 de marzo de 2017;Toyota;509328;-477292.64
+H;Memphis;14240.9;miércoles 12 de abril de 2017;Renault;417019;-402778.1
+S;Memphis;25445.76;miércoles 30 de agosto de 2017;Peugeot;287741;-262295.24
+K;Memphis;22108.76;miércoles 22 de marzo de 2017;Toyota;509328;-487219.24
+R;Memphis;13607.26;jueves 05 de enero de 2017;Seat;3396;10211.26
+R;Memphis;35508.99;lunes 24 de abril de 2017;Seat;3396;32112.99
+O;Memphis;48450.17;jueves 05 de enero de 2017;Fiat;117711;-69260.83
+H;Memphis;22009.38;sábado 23 de septiembre de 2017;Renault;417019;-395009.62
+C;Memphis;5647.95;viernes 21 de abril de 2017;Ford;145385;-139737.05
+I;Memphis;23581.36;sábado 20 de mayo de 2017;Hyundai;121889;-98307.64
+Q;Memphis;21986.27;jueves 21 de septiembre de 2017;Suzuki;121590;-99603.73
+P;Memphis;22467.29;sábado 30 de septiembre de 2017;Volvo;579877;-557409.71
+C;Memphis;4203.8;miércoles 29 de noviembre de 2017;Ford;145385;-141181.2
+R;Memphis;33180.21;martes 21 de marzo de 2017;Seat;3396;29784.21
+S;Memphis;30118.09;sábado 01 de abril de 2017;Peugeot;287741;-257622.91
+O;Memphis;36687.34;lunes 21 de agosto de 2017;Fiat;117711;-81023.66
+M;Memphis;28186.99;sábado 01 de julio de 2017;Mazda;327078;-298891.01
+P;Memphis;6879.97;viernes 21 de abril de 2017;Volvo;579877;-572997.03
+B;Memphis;22796.28;sábado 08 de julio de 2017;Audi;506811;-484014.72
+J;Memphis;16668.34;lunes 29 de mayo de 2017;Mitsubishi;362567;-345898.66
+E;Memphis;262.65;sábado 04 de noviembre de 2017;Kia;526617;-526354.35
+Q;Memphis;44590.82;miércoles 19 de abril de 2017;Suzuki;121590;-76999.18
+M;Memphis;8977.67;jueves 27 de julio de 2017;Mazda;327078;-318100.33
+T;Memphis;37641.78;lunes 06 de noviembre de 2017;Isuzu;288473;-250831.22
+Q;Memphis;29788.09;domingo 01 de enero de 2017;Suzuki;121590;-91801.91
+K;Memphis;16402.28;sábado 02 de diciembre de 2017;Toyota;509328;-492925.72
+B;Memphis;18358.06;domingo 26 de febrero de 2017;Audi;506811;-488452.94
+H;Memphis;2446.4;jueves 12 de octubre de 2017;Renault;417019;-414572.6
+P;Memphis;46856.17;lunes 02 de octubre de 2017;Volvo;579877;-533020.83
+E;Memphis;16817.74;jueves 05 de enero de 2017;Kia;526617;-509799.26
+I;Memphis;17822;martes 20 de junio de 2017;Hyundai;121889;-104067
+P;Memphis;8249.5;lunes 04 de septiembre de 2017;Volvo;579877;-571627.5
+N;Memphis;4123.45;domingo 06 de agosto de 2017;BMW;366207;-362083.55
+F;Memphis;48340.54;viernes 13 de enero de 2017;Citroen;361084;-312743.46
+G;Memphis;19564.14;lunes 27 de marzo de 2017;Jeep;62985;-43420.86
+J;Memphis;24957.99;jueves 11 de mayo de 2017;Mitsubishi;362567;-337609.01
+Q;Memphis;11698.49;martes 12 de diciembre de 2017;Suzuki;121590;-109891.51
+K;Memphis;29873.17;jueves 23 de febrero de 2017;Toyota;509328;-479454.83
+C;Memphis;8881.82;viernes 29 de diciembre de 2017;Ford;145385;-136503.18
+J;Memphis;30368.96;martes 02 de mayo de 2017;Mitsubishi;362567;-332198.04
+I;Memphis;38454.87;viernes 05 de mayo de 2017;Hyundai;121889;-83434.13
+S;Memphis;31254.84;lunes 22 de mayo de 2017;Peugeot;287741;-256486.16
+P;Memphis;12136.66;martes 08 de agosto de 2017;Volvo;579877;-567740.34
+D;Memphis;42921.68;jueves 30 de marzo de 2017;Jaguar;384724;-341802.32
+O;Memphis;38277.12;sábado 23 de septiembre de 2017;Fiat;117711;-79433.88
+Q;Memphis;803.29;lunes 25 de septiembre de 2017;Suzuki;121590;-120786.71
+E;Memphis;39851.77;martes 02 de mayo de 2017;Kia;526617;-486765.23
+G;Memphis;38467.44;sábado 22 de abril de 2017;Jeep;62985;-24517.56
+B;Memphis;31812.75;jueves 30 de noviembre de 2017;Audi;506811;-474998.25
+D;Memphis;3603.11;sábado 08 de julio de 2017;Jaguar;384724;-381120.89
+H;Memphis;41899.32;lunes 17 de abril de 2017;Renault;417019;-375119.68
+F;Memphis;37610.92;domingo 09 de abril de 2017;Citroen;361084;-323473.08
+P;Memphis;44456.8;viernes 27 de enero de 2017;Volvo;579877;-535420.2
+T;Memphis;11750.46;viernes 07 de julio de 2017;Isuzu;288473;-276722.54
+I;Memphis;34819.62;domingo 06 de agosto de 2017;Hyundai;121889;-87069.38
+B;Memphis;34025.83;sábado 18 de noviembre de 2017;Audi;506811;-472785.17
+P;Memphis;28449.02;domingo 01 de enero de 2017;Volvo;579877;-551427.98
+G;Memphis;22875.5;viernes 24 de marzo de 2017;Jeep;62985;-40109.5
+Q;Memphis;3184.99;lunes 29 de mayo de 2017;Suzuki;121590;-118405.01
+A;Memphis;17270.74;viernes 20 de enero de 2017;Mercedes-Benz;665685;-648414.26
+O;Memphis;12848.95;lunes 06 de marzo de 2017;Fiat;117711;-104862.05
+C;Memphis;11143.89;sábado 15 de abril de 2017;Ford;145385;-134241.11
+H;Memphis;35155.63;jueves 27 de julio de 2017;Renault;417019;-381863.37
+S;Memphis;10710.6;miércoles 27 de diciembre de 2017;Peugeot;287741;-277030.4
+H;Memphis;44623.54;sábado 15 de abril de 2017;Renault;417019;-372395.46
+L;Memphis;31490.04;jueves 12 de octubre de 2017;Volkswagen;478975;-447484.96
+M;Memphis;25228.71;jueves 28 de septiembre de 2017;Mazda;327078;-301849.29
+R;Memphis;34281.19;domingo 11 de junio de 2017;Seat;3396;30885.19
+L;Memphis;19189.7;sábado 30 de diciembre de 2017;Volkswagen;478975;-459785.3
+L;Memphis;5731.69;domingo 03 de diciembre de 2017;Volkswagen;478975;-473243.31
+B;Memphis;16549.03;domingo 18 de junio de 2017;Audi;506811;-490261.97
+R;Memphis;36669.8;miércoles 23 de agosto de 2017;Seat;3396;33273.8
+A;Memphis;16292.61;lunes 03 de abril de 2017;Mercedes-Benz;665685;-649392.39
+F;Memphis;19084.15;sábado 04 de marzo de 2017;Citroen;361084;-341999.85
+H;Memphis;34132.45;miércoles 18 de octubre de 2017;Renault;417019;-382886.55
+H;Memphis;35156.37;viernes 27 de octubre de 2017;Renault;417019;-381862.63
+T;Memphis;31724.18;miércoles 16 de agosto de 2017;Isuzu;288473;-256748.82
+D;Memphis;26538.5;domingo 26 de marzo de 2017;Jaguar;384724;-358185.5
+T;Memphis;3819.53;lunes 24 de julio de 2017;Isuzu;288473;-284653.47
+I;Memphis;34014.42;miércoles 22 de noviembre de 2017;Hyundai;121889;-87874.58
+G;Memphis;43255.63;sábado 02 de diciembre de 2017;Jeep;62985;-19729.37
+Q;Memphis;18892.07;domingo 23 de julio de 2017;Suzuki;121590;-102697.93
+N;Memphis;13156.26;miércoles 01 de marzo de 2017;BMW;366207;-353050.74
+K;Memphis;29059.82;viernes 24 de marzo de 2017;Toyota;509328;-480268.18
+J;Memphis;14927.3;miércoles 01 de noviembre de 2017;Mitsubishi;362567;-347639.7
+S;Memphis;28390.47;viernes 29 de diciembre de 2017;Peugeot;287741;-259350.53
+K;Memphis;23280.35;domingo 22 de octubre de 2017;Toyota;509328;-486047.65
+P;Memphis;49225.07;domingo 06 de agosto de 2017;Volvo;579877;-530651.93
+A;Memphis;14860;lunes 20 de marzo de 2017;Mercedes-Benz;665685;-650825
+S;Memphis;19211.87;domingo 27 de agosto de 2017;Peugeot;287741;-268529.13
+F;Memphis;38167.22;sábado 03 de junio de 2017;Citroen;361084;-322916.78
+P;Memphis;899.02;viernes 24 de noviembre de 2017;Volvo;579877;-578977.98
+H;Memphis;21759.94;sábado 29 de abril de 2017;Renault;417019;-395259.06
+H;Memphis;25567.75;jueves 29 de junio de 2017;Renault;417019;-391451.25
+E;Memphis;40690.4;miércoles 04 de octubre de 2017;Kia;526617;-485926.6
+L;Memphis;28737.58;jueves 30 de noviembre de 2017;Volkswagen;478975;-450237.42
+G;Memphis;30531.78;viernes 03 de febrero de 2017;Jeep;62985;-32453.22
+K;Memphis;28634;sábado 20 de mayo de 2017;Toyota;509328;-480694
+P;Memphis;6603.12;jueves 27 de julio de 2017;Volvo;579877;-573273.88
+R;Memphis;4116.11;sábado 30 de diciembre de 2017;Seat;3396;720.11
+M;Memphis;42460.57;martes 09 de mayo de 2017;Mazda;327078;-284617.43
+M;Memphis;21110.39;sábado 17 de junio de 2017;Mazda;327078;-305967.61
+D;Memphis;1731.72;viernes 28 de abril de 2017;Jaguar;384724;-382992.28
+F;Memphis;2887.76;domingo 01 de octubre de 2017;Citroen;361084;-358196.24
+P;Memphis;4115.89;lunes 25 de septiembre de 2017;Volvo;579877;-575761.11
+P;Memphis;1734.02;jueves 16 de marzo de 2017;Volvo;579877;-578142.98
+P;Memphis;19592.47;lunes 24 de abril de 2017;Volvo;579877;-560284.53
+J;Memphis;12275.05;miércoles 22 de febrero de 2017;Mitsubishi;362567;-350291.95
+R;Memphis;37675.81;domingo 16 de julio de 2017;Seat;3396;34279.81
+U;Memphis;43164.05;miércoles 18 de octubre de 2017;Nissan;56659;-13494.95
+C;Memphis;16872.99;viernes 03 de febrero de 2017;Ford;145385;-128512.01
+Q;Memphis;38079.05;miércoles 06 de septiembre de 2017;Suzuki;121590;-83510.95
+B;Memphis;43672.46;lunes 16 de octubre de 2017;Audi;506811;-463138.54
+G;Memphis;8768.81;martes 15 de agosto de 2017;Jeep;62985;-54216.19
+K;Memphis;39846.41;martes 28 de febrero de 2017;Toyota;509328;-469481.59
+R;Memphis;15912.07;domingo 23 de julio de 2017;Seat;3396;12516.07
+P;Memphis;39900.96;viernes 08 de septiembre de 2017;Volvo;579877;-539976.04
+Q;Memphis;29234.55;sábado 01 de abril de 2017;Suzuki;121590;-92355.45
+K;Memphis;32969.52;martes 10 de enero de 2017;Toyota;509328;-476358.48
+K;Memphis;9643.41;sábado 04 de febrero de 2017;Toyota;509328;-499684.59
+G;Memphis;1333.87;lunes 01 de mayo de 2017;Jeep;62985;-61651.13
+I;Memphis;32587.75;lunes 28 de agosto de 2017;Hyundai;121889;-89301.25
+F;Memphis;44570;jueves 24 de agosto de 2017;Citroen;361084;-316514
+I;Memphis;26837.58;martes 26 de diciembre de 2017;Hyundai;121889;-95051.42
+H;Memphis;45382.25;sábado 04 de marzo de 2017;Renault;417019;-371636.75
+G;Memphis;8806.03;lunes 03 de julio de 2017;Jeep;62985;-54178.97
+G;Memphis;4569.27;miércoles 01 de marzo de 2017;Jeep;62985;-58415.73
+I;Memphis;15040.45;lunes 06 de noviembre de 2017;Hyundai;121889;-106848.55
+T;Memphis;14511.05;domingo 26 de febrero de 2017;Isuzu;288473;-273961.95
+R;Memphis;2659.7;sábado 28 de enero de 2017;Seat;3396;-736.3
+K;Memphis;13146.69;sábado 14 de enero de 2017;Toyota;509328;-496181.31
+S;Memphis;36166.77;domingo 03 de diciembre de 2017;Peugeot;287741;-251574.23
+Q;Memphis;21949.98;martes 25 de julio de 2017;Suzuki;121590;-99640.02
+S;Memphis;36457.04;miércoles 25 de enero de 2017;Peugeot;287741;-251283.96
+M;Memphis;13969.64;martes 12 de diciembre de 2017;Mazda;327078;-313108.36
+U;Memphis;27515.68;jueves 09 de marzo de 2017;Nissan;56659;-29143.32
+K;Memphis;26242.45;miércoles 23 de agosto de 2017;Toyota;509328;-483085.55
+E;Memphis;9794.66;viernes 25 de agosto de 2017;Kia;526617;-516822.34
+C;Memphis;30643.7;viernes 13 de enero de 2017;Ford;145385;-114741.3
+J;Memphis;385.38;jueves 28 de septiembre de 2017;Mitsubishi;362567;-362181.62
+G;Memphis;10571;jueves 16 de noviembre de 2017;Jeep;62985;-52414
+M;Memphis;23617.07;sábado 02 de diciembre de 2017;Mazda;327078;-303460.93
+Q;Memphis;16758.91;martes 22 de agosto de 2017;Suzuki;121590;-104831.09
+Q;Memphis;11732.63;miércoles 23 de agosto de 2017;Suzuki;121590;-109857.37
+A;Memphis;395.92;domingo 08 de octubre de 2017;Mercedes-Benz;665685;-665289.08
+D;Memphis;13202.6;miércoles 29 de marzo de 2017;Jaguar;384724;-371521.4
+Q;Memphis;12323.37;jueves 03 de agosto de 2017;Suzuki;121590;-109266.63
+P;Memphis;2075.93;domingo 05 de marzo de 2017;Volvo;579877;-577801.07
+J;Memphis;46416.81;martes 07 de marzo de 2017;Mitsubishi;362567;-316150.19
+J;Memphis;5563.96;domingo 24 de septiembre de 2017;Mitsubishi;362567;-357003.04
+Q;Memphis;8610.25;miércoles 18 de octubre de 2017;Suzuki;121590;-112979.75
+O;Memphis;42377.94;sábado 29 de abril de 2017;Fiat;117711;-75333.06
+C;Memphis;20004.55;martes 15 de agosto de 2017;Ford;145385;-125380.45
+H;Memphis;31857.99;viernes 10 de noviembre de 2017;Renault;417019;-385161.01
+B;Memphis;8144.98;lunes 06 de febrero de 2017;Audi;506811;-498666.02
+S;Memphis;43921.08;domingo 29 de enero de 2017;Peugeot;287741;-243819.92
+C;Memphis;18217.06;domingo 23 de abril de 2017;Ford;145385;-127167.94
+A;Memphis;37751.59;jueves 28 de diciembre de 2017;Mercedes-Benz;665685;-627933.41
+E;Memphis;41962.5;domingo 22 de octubre de 2017;Kia;526617;-484654.5
+B;Memphis;43608.94;martes 29 de agosto de 2017;Audi;506811;-463202.06
+T;Memphis;43140.85;sábado 22 de julio de 2017;Isuzu;288473;-245332.15
+D;Memphis;7976.15;miércoles 21 de junio de 2017;Jaguar;384724;-376747.85
+E;Memphis;15052.4;viernes 16 de junio de 2017;Kia;526617;-511564.6
+P;Memphis;15877.61;viernes 10 de marzo de 2017;Volvo;579877;-563999.39
+M;Memphis;13579.9;miércoles 22 de marzo de 2017;Mazda;327078;-313498.1
+C;Memphis;2600.49;lunes 03 de abril de 2017;Ford;145385;-142784.51
+A;Memphis;7819.33;lunes 07 de agosto de 2017;Mercedes-Benz;665685;-657865.67
+F;Memphis;19344.01;martes 20 de junio de 2017;Citroen;361084;-341739.99
+F;Memphis;20894.22;viernes 27 de octubre de 2017;Citroen;361084;-340189.78
+U;Memphis;25426.68;viernes 27 de octubre de 2017;Nissan;56659;-31232.32
+K;Memphis;29512.27;miércoles 23 de agosto de 2017;Toyota;509328;-479815.73
+O;Memphis;14751;miércoles 12 de julio de 2017;Fiat;117711;-102960
+I;Memphis;31103.9;martes 05 de septiembre de 2017;Hyundai;121889;-90785.1
+S;Memphis;947.76;miércoles 19 de abril de 2017;Peugeot;287741;-286793.24
+F;Memphis;23346.39;domingo 26 de marzo de 2017;Citroen;361084;-337737.61
+G;Memphis;38937.55;jueves 01 de junio de 2017;Jeep;62985;-24047.45
+L;Memphis;2117.28;domingo 30 de abril de 2017;Volkswagen;478975;-476857.72
+A;Memphis;46733.38;sábado 29 de abril de 2017;Mercedes-Benz;665685;-618951.62
+B;Memphis;30424.51;domingo 29 de octubre de 2017;Audi;506811;-476386.49
+C;Memphis;3925.81;martes 24 de octubre de 2017;Ford;145385;-141459.19
+O;Memphis;28125.42;lunes 21 de agosto de 2017;Fiat;117711;-89585.58
+I;Memphis;6321.81;jueves 11 de mayo de 2017;Hyundai;121889;-115567.19
+R;Memphis;40650.43;domingo 15 de enero de 2017;Seat;3396;37254.43
+S;Memphis;46527.37;sábado 22 de abril de 2017;Peugeot;287741;-241213.63
+R;Memphis;19846.22;miércoles 27 de septiembre de 2017;Seat;3396;16450.22
+N;Memphis;27805.11;viernes 02 de junio de 2017;BMW;366207;-338401.89
+F;Memphis;22186.39;lunes 27 de febrero de 2017;Citroen;361084;-338897.61
+P;Memphis;10214.09;martes 02 de mayo de 2017;Volvo;579877;-569662.91
+F;Memphis;20094.31;martes 20 de junio de 2017;Citroen;361084;-340989.69
+R;Memphis;46379.36;sábado 20 de mayo de 2017;Seat;3396;42983.36
+F;Memphis;42305.58;domingo 08 de enero de 2017;Citroen;361084;-318778.42
+U;Memphis;5640.04;miércoles 14 de junio de 2017;Nissan;56659;-51018.96
+H;Memphis;30933.27;lunes 06 de febrero de 2017;Renault;417019;-386085.73
+E;Memphis;18472.02;miércoles 13 de septiembre de 2017;Kia;526617;-508144.98
+N;Memphis;27066.84;lunes 26 de junio de 2017;BMW;366207;-339140.16
+L;Memphis;4117.78;jueves 02 de febrero de 2017;Volkswagen;478975;-474857.22
+E;Memphis;6815.31;miércoles 25 de enero de 2017;Kia;526617;-519801.69
+A;Memphis;48286.16;miércoles 15 de noviembre de 2017;Mercedes-Benz;665685;-617398.84
+R;Memphis;6019.96;sábado 06 de mayo de 2017;Seat;3396;2623.96
+E;Memphis;39433.1;viernes 27 de enero de 2017;Kia;526617;-487183.9
+T;Memphis;45796.59;lunes 09 de enero de 2017;Isuzu;288473;-242676.41
+P;Memphis;37092.56;sábado 12 de agosto de 2017;Volvo;579877;-542784.44
+G;Memphis;37833.14;viernes 24 de febrero de 2017;Jeep;62985;-25151.86
+C;Porland;9394.1;lunes 25 de septiembre de 2017;Ford;145385;-135990.9
+T;Porland;25309.73;lunes 30 de enero de 2017;Isuzu;288473;-263163.27
+I;Porland;14720.65;sábado 13 de mayo de 2017;Hyundai;121889;-107168.35
+O;Porland;36084.91;lunes 06 de marzo de 2017;Fiat;117711;-81626.09
+D;Porland;2692.96;viernes 28 de julio de 2017;Jaguar;384724;-382031.04
+R;Porland;9006.74;viernes 17 de febrero de 2017;Seat;3396;5610.74
+R;Porland;23091.5;martes 21 de febrero de 2017;Seat;3396;19695.5
+K;Porland;41069.53;miércoles 04 de octubre de 2017;Toyota;509328;-468258.47
+F;Porland;46970.56;martes 06 de junio de 2017;Citroen;361084;-314113.44
+P;Porland;21366.91;martes 06 de junio de 2017;Volvo;579877;-558510.09
+H;Porland;45193.53;jueves 16 de noviembre de 2017;Renault;417019;-371825.47
+M;Porland;36830.36;miércoles 11 de enero de 2017;Mazda;327078;-290247.64
+I;Porland;15629.07;jueves 29 de junio de 2017;Hyundai;121889;-106259.93
+K;Porland;30853.57;domingo 05 de marzo de 2017;Toyota;509328;-478474.43
+K;Porland;48430.78;jueves 19 de enero de 2017;Toyota;509328;-460897.22
+A;Porland;48651.39;jueves 16 de noviembre de 2017;Mercedes-Benz;665685;-617033.61
+H;Porland;10931.21;viernes 18 de agosto de 2017;Renault;417019;-406087.79
+L;Porland;41910.8;viernes 07 de julio de 2017;Volkswagen;478975;-437064.2
+I;Porland;6327.42;sábado 15 de julio de 2017;Hyundai;121889;-115561.58
+M;Porland;48733.51;domingo 23 de abril de 2017;Mazda;327078;-278344.49
+O;Porland;2018.49;domingo 15 de octubre de 2017;Fiat;117711;-115692.51
+F;Porland;28844.33;sábado 09 de diciembre de 2017;Citroen;361084;-332239.67
+J;Porland;29285.55;jueves 18 de mayo de 2017;Mitsubishi;362567;-333281.45
+A;Porland;47835.67;miércoles 06 de septiembre de 2017;Mercedes-Benz;665685;-617849.33
+R;Porland;42233.49;viernes 20 de octubre de 2017;Seat;3396;38837.49
+E;Porland;22521.71;sábado 14 de octubre de 2017;Kia;526617;-504095.29
+L;Porland;34607.31;martes 26 de diciembre de 2017;Volkswagen;478975;-444367.69
+T;Porland;36626.65;jueves 04 de mayo de 2017;Isuzu;288473;-251846.35
+A;Porland;22965.89;miércoles 29 de marzo de 2017;Mercedes-Benz;665685;-642719.11
+A;Porland;36970.04;jueves 29 de junio de 2017;Mercedes-Benz;665685;-628714.96
+A;Porland;36313.61;jueves 26 de octubre de 2017;Mercedes-Benz;665685;-629371.39
+B;Porland;49643.93;lunes 06 de febrero de 2017;Audi;506811;-457167.07
+Q;Porland;32432.02;jueves 16 de febrero de 2017;Suzuki;121590;-89157.98
+E;Porland;36079.06;viernes 28 de julio de 2017;Kia;526617;-490537.94
+A;Porland;44849.01;miércoles 15 de marzo de 2017;Mercedes-Benz;665685;-620835.99
+C;Porland;10644.76;domingo 09 de abril de 2017;Ford;145385;-134740.24
+J;Porland;12523.2;sábado 22 de julio de 2017;Mitsubishi;362567;-350043.8
+L;Porland;27894.61;viernes 03 de febrero de 2017;Volkswagen;478975;-451080.39
+S;Porland;41845.8;miércoles 08 de febrero de 2017;Peugeot;287741;-245895.2
+D;Porland;21655.06;martes 31 de octubre de 2017;Jaguar;384724;-363068.94
+L;Porland;31030.65;lunes 11 de septiembre de 2017;Volkswagen;478975;-447944.35
+O;Porland;37005.07;jueves 05 de octubre de 2017;Fiat;117711;-80705.93
+R;Porland;16044.91;sábado 11 de noviembre de 2017;Seat;3396;12648.91
+H;Porland;49343.02;jueves 26 de octubre de 2017;Renault;417019;-367675.98
+F;Porland;43364.09;jueves 09 de marzo de 2017;Citroen;361084;-317719.91
+K;Porland;5007.85;jueves 01 de junio de 2017;Toyota;509328;-504320.15
+S;Porland;15975.28;martes 31 de octubre de 2017;Peugeot;287741;-271765.72
+E;Porland;4567.62;miércoles 28 de junio de 2017;Kia;526617;-522049.38
+O;Porland;16676.66;lunes 10 de julio de 2017;Fiat;117711;-101034.34
+D;Porland;26552.8;lunes 09 de octubre de 2017;Jaguar;384724;-358171.2
+D;Porland;46681.57;martes 25 de julio de 2017;Jaguar;384724;-338042.43
+R;Porland;23623.45;martes 19 de diciembre de 2017;Seat;3396;20227.45
+P;Porland;38629.74;martes 28 de febrero de 2017;Volvo;579877;-541247.26
+B;Porland;19573.11;miércoles 03 de mayo de 2017;Audi;506811;-487237.89
+S;Porland;47038.42;miércoles 06 de septiembre de 2017;Peugeot;287741;-240702.58
+P;Porland;29581.44;miércoles 11 de octubre de 2017;Volvo;579877;-550295.56
+F;Porland;1866.14;sábado 23 de diciembre de 2017;Citroen;361084;-359217.86
+O;Porland;7292.55;sábado 21 de octubre de 2017;Fiat;117711;-110418.45
+G;Porland;14040.47;domingo 03 de diciembre de 2017;Jeep;62985;-48944.53
+G;Porland;39564.95;jueves 09 de marzo de 2017;Jeep;62985;-23420.05
+J;Porland;9245.9;domingo 20 de agosto de 2017;Mitsubishi;362567;-353321.1
+B;Porland;47216.63;domingo 28 de mayo de 2017;Audi;506811;-459594.37
+L;Porland;7011.39;lunes 10 de abril de 2017;Volkswagen;478975;-471963.61
+N;Porland;30631.72;miércoles 18 de octubre de 2017;BMW;366207;-335575.28
+G;Porland;49249.62;sábado 04 de febrero de 2017;Jeep;62985;-13735.38
+N;Porland;1703.87;martes 05 de septiembre de 2017;BMW;366207;-364503.13
+E;Porland;11744;jueves 07 de septiembre de 2017;Kia;526617;-514873
+K;Porland;36882.82;jueves 17 de agosto de 2017;Toyota;509328;-472445.18
+O;Porland;34268.14;lunes 31 de julio de 2017;Fiat;117711;-83442.86
+G;Porland;15699.48;miércoles 09 de agosto de 2017;Jeep;62985;-47285.52
+D;Porland;17527.05;viernes 13 de octubre de 2017;Jaguar;384724;-367196.95
+F;Porland;19391.95;viernes 20 de octubre de 2017;Citroen;361084;-341692.05
+S;Porland;48352.19;miércoles 18 de enero de 2017;Peugeot;287741;-239388.81
+Q;Porland;38207.44;jueves 13 de abril de 2017;Suzuki;121590;-83382.56
+O;Porland;11903.33;lunes 30 de enero de 2017;Fiat;117711;-105807.67
+D;Porland;16089.03;jueves 22 de junio de 2017;Jaguar;384724;-368634.97
+N;Porland;5078.6;jueves 15 de junio de 2017;BMW;366207;-361128.4
+G;Porland;41492.55;miércoles 22 de febrero de 2017;Jeep;62985;-21492.45
+N;Porland;37309.62;martes 27 de junio de 2017;BMW;366207;-328897.38
+O;Porland;40101.43;sábado 09 de septiembre de 2017;Fiat;117711;-77609.57
+D;Porland;7679.05;jueves 30 de noviembre de 2017;Jaguar;384724;-377044.95
+I;Porland;18307.58;viernes 05 de mayo de 2017;Hyundai;121889;-103581.42
+L;Porland;34462.52;miércoles 08 de noviembre de 2017;Volkswagen;478975;-444512.48
+B;Porland;14654.97;jueves 21 de diciembre de 2017;Audi;506811;-492156.03
+C;Porland;44351.2;domingo 12 de noviembre de 2017;Ford;145385;-101033.8
+G;Porland;27259.48;martes 29 de agosto de 2017;Jeep;62985;-35725.52
+H;Porland;46431.68;domingo 05 de febrero de 2017;Renault;417019;-370587.32
+P;Porland;11245.98;lunes 26 de junio de 2017;Volvo;579877;-568631.02
+M;Porland;11654.35;sábado 25 de noviembre de 2017;Mazda;327078;-315423.65
+P;Porland;34506.93;lunes 31 de julio de 2017;Volvo;579877;-545370.07
+D;Porland;4087.87;jueves 02 de febrero de 2017;Jaguar;384724;-380636.13
+L;Porland;39431.3;jueves 07 de diciembre de 2017;Volkswagen;478975;-439543.7
+C;Porland;16570.98;martes 24 de octubre de 2017;Ford;145385;-128814.02
+N;Porland;5281.32;martes 04 de julio de 2017;BMW;366207;-360925.68
+G;Porland;23894.91;domingo 30 de abril de 2017;Jeep;62985;-39090.09
+S;Porland;37908.27;jueves 16 de marzo de 2017;Peugeot;287741;-249832.73
+S;Porland;1608.44;domingo 27 de agosto de 2017;Peugeot;287741;-286132.56
+J;Porland;25633.15;jueves 28 de diciembre de 2017;Mitsubishi;362567;-336933.85
+O;Porland;44164.74;miércoles 12 de abril de 2017;Fiat;117711;-73546.26
+Q;Porland;17070.64;martes 04 de abril de 2017;Suzuki;121590;-104519.36
+C;Porland;46661.63;viernes 24 de febrero de 2017;Ford;145385;-98723.37
+H;Porland;42311.29;miércoles 15 de noviembre de 2017;Renault;417019;-374707.71
+D;Porland;20685.72;martes 12 de diciembre de 2017;Jaguar;384724;-364038.28
+G;Porland;36662.67;miércoles 21 de junio de 2017;Jeep;62985;-26322.33
+T;Porland;22061.09;miércoles 08 de marzo de 2017;Isuzu;288473;-266411.91
+H;Porland;9994.57;martes 27 de junio de 2017;Renault;417019;-407024.43
+F;Porland;35232.99;sábado 21 de octubre de 2017;Citroen;361084;-325851.01
+C;Porland;14666.02;viernes 28 de julio de 2017;Ford;145385;-130718.98
+M;Porland;11001.53;miércoles 06 de diciembre de 2017;Mazda;327078;-316076.47
+O;Porland;29996.27;lunes 27 de febrero de 2017;Fiat;117711;-87714.73
+E;Porland;44004.42;domingo 11 de junio de 2017;Kia;526617;-482612.58
+E;Porland;23353.01;martes 30 de mayo de 2017;Kia;526617;-503263.99
+B;Porland;27261.9;lunes 20 de noviembre de 2017;Audi;506811;-479549.1
+P;Porland;22411.88;jueves 10 de agosto de 2017;Volvo;579877;-557465.12
+P;Porland;30740.53;domingo 05 de noviembre de 2017;Volvo;579877;-549136.47
+B;Porland;9648.62;miércoles 18 de enero de 2017;Audi;506811;-497162.38
+C;Porland;2977.97;martes 11 de julio de 2017;Ford;145385;-142407.03
+Q;Porland;29978.55;jueves 23 de noviembre de 2017;Suzuki;121590;-91611.45
+G;Porland;47986.48;viernes 24 de febrero de 2017;Jeep;62985;-14998.52
+R;Porland;3667.03;miércoles 23 de agosto de 2017;Seat;3396;271.03
+O;Porland;8508.78;domingo 25 de junio de 2017;Fiat;117711;-109202.22
+M;Porland;3777.75;lunes 10 de julio de 2017;Mazda;327078;-323300.25
+B;Porland;41291.28;martes 14 de marzo de 2017;Audi;506811;-465519.72
+M;Porland;38946.07;lunes 26 de junio de 2017;Mazda;327078;-288131.93
+Q;Porland;1617.91;sábado 09 de diciembre de 2017;Suzuki;121590;-119972.09
+S;Porland;48366.75;sábado 02 de diciembre de 2017;Peugeot;287741;-239374.25
+N;Porland;26821.73;sábado 04 de marzo de 2017;BMW;366207;-339385.27
+J;Porland;31248.19;jueves 08 de junio de 2017;Mitsubishi;362567;-331318.81
+A;Porland;18531.45;lunes 30 de octubre de 2017;Mercedes-Benz;665685;-647153.55
+A;Porland;29196.78;martes 30 de mayo de 2017;Mercedes-Benz;665685;-636488.22
+O;Porland;25219.82;domingo 30 de julio de 2017;Fiat;117711;-92491.18
+L;Porland;10117.8;miércoles 25 de octubre de 2017;Volkswagen;478975;-468857.2
+K;Porland;30218.92;martes 11 de abril de 2017;Toyota;509328;-479109.08
+S;Porland;20778.77;miércoles 29 de marzo de 2017;Peugeot;287741;-266962.23
+R;Porland;24839.69;jueves 23 de noviembre de 2017;Seat;3396;21443.69
+O;Porland;46087.28;domingo 21 de mayo de 2017;Fiat;117711;-71623.72
+O;Porland;2352.06;viernes 08 de septiembre de 2017;Fiat;117711;-115358.94
+O;Porland;23661.62;sábado 04 de marzo de 2017;Fiat;117711;-94049.38
+P;Porland;47030.97;miércoles 05 de julio de 2017;Volvo;579877;-532846.03
+L;Porland;32272.04;martes 26 de septiembre de 2017;Volkswagen;478975;-446702.96
+A;Porland;9170.13;miércoles 18 de enero de 2017;Mercedes-Benz;665685;-656514.87
+E;Porland;339.66;martes 09 de mayo de 2017;Kia;526617;-526277.34
+S;Porland;33759.22;sábado 08 de abril de 2017;Peugeot;287741;-253981.78
+O;Porland;32039.89;miércoles 16 de agosto de 2017;Fiat;117711;-85671.11
+M;Porland;18363.02;lunes 20 de marzo de 2017;Mazda;327078;-308714.98
+L;Porland;3371.25;domingo 17 de diciembre de 2017;Volkswagen;478975;-475603.75
+D;Porland;31278.49;miércoles 08 de noviembre de 2017;Jaguar;384724;-353445.51
+K;Porland;44122.78;lunes 31 de julio de 2017;Toyota;509328;-465205.22
+I;Porland;21909;lunes 27 de marzo de 2017;Hyundai;121889;-99980
+N;Porland;27482.48;domingo 01 de enero de 2017;BMW;366207;-338724.52
+A;Porland;29305.69;miércoles 05 de julio de 2017;Mercedes-Benz;665685;-636379.31
+F;Porland;47712.14;viernes 23 de junio de 2017;Citroen;361084;-313371.86
+U;Porland;17812.85;domingo 24 de diciembre de 2017;Nissan;56659;-38846.15
+L;Porland;18004.04;miércoles 27 de septiembre de 2017;Volkswagen;478975;-460970.96
+S;Porland;37606.42;martes 14 de febrero de 2017;Peugeot;287741;-250134.58
+A;Porland;48762.45;lunes 30 de octubre de 2017;Mercedes-Benz;665685;-616922.55
+H;Porland;9639.61;martes 11 de julio de 2017;Renault;417019;-407379.39
+G;Porland;43208.53;viernes 22 de diciembre de 2017;Jeep;62985;-19776.47
+E;Porland;9594.92;viernes 24 de febrero de 2017;Kia;526617;-517022.08
+D;Porland;2923.68;viernes 27 de octubre de 2017;Jaguar;384724;-381800.32
+M;Porland;9924.75;sábado 04 de febrero de 2017;Mazda;327078;-317153.25
+E;Porland;22317.62;lunes 17 de abril de 2017;Kia;526617;-504299.38
+B;Porland;17517.72;miércoles 30 de agosto de 2017;Audi;506811;-489293.28
+K;Porland;2558.05;miércoles 19 de julio de 2017;Toyota;509328;-506769.95
+A;Porland;35540.06;viernes 08 de septiembre de 2017;Mercedes-Benz;665685;-630144.94
+F;Porland;33713.29;martes 19 de diciembre de 2017;Citroen;361084;-327370.71
+L;Porland;39569.79;jueves 05 de enero de 2017;Volkswagen;478975;-439405.21
+C;Porland;35304.64;sábado 06 de mayo de 2017;Ford;145385;-110080.36
+Q;Porland;2338.03;lunes 12 de junio de 2017;Suzuki;121590;-119251.97
+O;Porland;5197.27;viernes 24 de noviembre de 2017;Fiat;117711;-112513.73
+I;Porland;39987.85;sábado 24 de junio de 2017;Hyundai;121889;-81901.15
+N;Porland;29922.56;domingo 10 de diciembre de 2017;BMW;366207;-336284.44
+I;Porland;23229.2;miércoles 22 de marzo de 2017;Hyundai;121889;-98659.8
+K;Porland;38684.85;miércoles 17 de mayo de 2017;Toyota;509328;-470643.15
+A;Porland;6436.4;lunes 26 de junio de 2017;Mercedes-Benz;665685;-659248.6
+M;Porland;23553.15;miércoles 11 de octubre de 2017;Mazda;327078;-303524.85
+T;Porland;40023.14;viernes 19 de mayo de 2017;Isuzu;288473;-248449.86
+Q;Porland;8224.73;martes 05 de septiembre de 2017;Suzuki;121590;-113365.27
+M;Porland;28916.85;lunes 18 de diciembre de 2017;Mazda;327078;-298161.15
+A;Porland;13370.2;sábado 07 de octubre de 2017;Mercedes-Benz;665685;-652314.8
+G;Porland;7121.61;jueves 26 de enero de 2017;Jeep;62985;-55863.39
+I;Porland;23433.55;miércoles 28 de junio de 2017;Hyundai;121889;-98455.45
+F;Porland;25402.23;jueves 26 de enero de 2017;Citroen;361084;-335681.77
+K;Porland;26715.23;martes 13 de junio de 2017;Toyota;509328;-482612.77
+N;Porland;45991.36;viernes 14 de abril de 2017;BMW;366207;-320215.64
+U;Porland;5410.74;domingo 03 de diciembre de 2017;Nissan;56659;-51248.26
+G;Porland;3140.85;lunes 13 de marzo de 2017;Jeep;62985;-59844.15
+T;Porland;19057.5;viernes 10 de febrero de 2017;Isuzu;288473;-269415.5
+I;Porland;33052.99;lunes 27 de febrero de 2017;Hyundai;121889;-88836.01
+L;Porland;630.4;domingo 26 de febrero de 2017;Volkswagen;478975;-478344.6
+S;Porland;4935.12;jueves 23 de marzo de 2017;Peugeot;287741;-282805.88
+M;Porland;34224.31;martes 12 de diciembre de 2017;Mazda;327078;-292853.69
+A;Porland;1966.1;lunes 24 de abril de 2017;Mercedes-Benz;665685;-663718.9
+L;Porland;33748.48;lunes 16 de enero de 2017;Volkswagen;478975;-445226.52
+L;Porland;20868.21;jueves 19 de octubre de 2017;Volkswagen;478975;-458106.79
+H;Porland;32397.01;viernes 16 de junio de 2017;Renault;417019;-384621.99
+P;Porland;19247.45;domingo 23 de julio de 2017;Volvo;579877;-560629.55
+P;Porland;1990.39;martes 28 de noviembre de 2017;Volvo;579877;-577886.61
+A;Porland;26999.73;miércoles 17 de mayo de 2017;Mercedes-Benz;665685;-638685.27
+J;Porland;45597.43;lunes 14 de agosto de 2017;Mitsubishi;362567;-316969.57
+L;Porland;24996.95;lunes 15 de mayo de 2017;Volkswagen;478975;-453978.05
+J;Porland;42790.05;miércoles 27 de diciembre de 2017;Mitsubishi;362567;-319776.95
+B;Porland;26239.94;jueves 01 de junio de 2017;Audi;506811;-480571.06
+M;Porland;48344.61;domingo 15 de enero de 2017;Mazda;327078;-278733.39
+Q;Porland;23164.47;domingo 10 de diciembre de 2017;Suzuki;121590;-98425.53
+L;Porland;9096.26;miércoles 22 de noviembre de 2017;Volkswagen;478975;-469878.74
+C;Porland;45264.12;lunes 22 de mayo de 2017;Ford;145385;-100120.88
+J;Porland;18742.57;martes 20 de junio de 2017;Mitsubishi;362567;-343824.43
+P;Porland;22526.67;sábado 12 de agosto de 2017;Volvo;579877;-557350.33
+S;Porland;35276.66;domingo 08 de enero de 2017;Peugeot;287741;-252464.34
+M;Porland;45393.3;domingo 01 de octubre de 2017;Mazda;327078;-281684.7
+F;Porland;30839.73;miércoles 25 de octubre de 2017;Citroen;361084;-330244.27
+N;Porland;35293.24;lunes 13 de noviembre de 2017;BMW;366207;-330913.76
+R;Porland;43591.18;viernes 06 de octubre de 2017;Seat;3396;40195.18
+G;Porland;37754.68;martes 11 de julio de 2017;Jeep;62985;-25230.32
+L;Porland;29545.3;domingo 25 de junio de 2017;Volkswagen;478975;-449429.7
+P;Porland;1778.82;jueves 20 de abril de 2017;Volvo;579877;-578098.18
+P;Porland;6677;lunes 11 de diciembre de 2017;Volvo;579877;-573200
+L;Porland;8527.06;domingo 20 de agosto de 2017;Volkswagen;478975;-470447.94
+A;Porland;30325.84;jueves 28 de diciembre de 2017;Mercedes-Benz;665685;-635359.16
+H;Porland;48365.93;lunes 29 de mayo de 2017;Renault;417019;-368653.07
+I;Porland;3460.15;miércoles 08 de noviembre de 2017;Hyundai;121889;-118428.85
+F;Porland;8850.86;sábado 25 de noviembre de 2017;Citroen;361084;-352233.14
+F;Porland;38746.58;lunes 13 de febrero de 2017;Citroen;361084;-322337.42
+T;Porland;30380.45;lunes 08 de mayo de 2017;Isuzu;288473;-258092.55
+H;Porland;18691.21;sábado 23 de septiembre de 2017;Renault;417019;-398327.79
+B;Porland;15473.93;sábado 28 de enero de 2017;Audi;506811;-491337.07
+A;Porland;29198.57;viernes 24 de febrero de 2017;Mercedes-Benz;665685;-636486.43
+O;Porland;22026.74;martes 17 de enero de 2017;Fiat;117711;-95684.26
+C;Porland;13194.63;lunes 19 de junio de 2017;Ford;145385;-132190.37
+O;Porland;29745.14;jueves 23 de noviembre de 2017;Fiat;117711;-87965.86
+P;Porland;26154.62;viernes 22 de diciembre de 2017;Volvo;579877;-553722.38
+U;Porland;38340.46;jueves 09 de noviembre de 2017;Nissan;56659;-18318.54
+M;Porland;40972.29;lunes 15 de mayo de 2017;Mazda;327078;-286105.71
+M;Porland;26394.46;domingo 16 de julio de 2017;Mazda;327078;-300683.54
+T;Porland;19931.01;domingo 02 de julio de 2017;Isuzu;288473;-268541.99
+M;Porland;29076.94;miércoles 08 de marzo de 2017;Mazda;327078;-298001.06
+M;Porland;25995.78;lunes 25 de diciembre de 2017;Mazda;327078;-301082.22
+M;Porland;2932.64;martes 21 de noviembre de 2017;Mazda;327078;-324145.36
+S;Porland;7291.38;domingo 22 de octubre de 2017;Peugeot;287741;-280449.62
+I;Porland;26888.38;domingo 16 de abril de 2017;Hyundai;121889;-95000.62
+M;Porland;48382.31;viernes 10 de febrero de 2017;Mazda;327078;-278695.69
+G;Porland;23310.62;domingo 13 de agosto de 2017;Jeep;62985;-39674.38
+G;Porland;43313.1;domingo 16 de abril de 2017;Jeep;62985;-19671.9
+O;Porland;8085.96;viernes 06 de enero de 2017;Fiat;117711;-109625.04
+K;Porland;19333.17;martes 31 de octubre de 2017;Toyota;509328;-489994.83
+Q;Porland;9645.02;jueves 16 de febrero de 2017;Suzuki;121590;-111944.98
+H;Miami;18187.62;sábado 15 de abril de 2017;Renault;417019;-398831.38
+A;Miami;20361.14;viernes 17 de noviembre de 2017;Mercedes-Benz;665685;-645323.86
+B;Miami;34633.28;jueves 18 de mayo de 2017;Audi;506811;-472177.72
+J;Miami;1343.25;miércoles 26 de abril de 2017;Mitsubishi;362567;-361223.75
+G;Miami;653.56;domingo 10 de septiembre de 2017;Jeep;62985;-62331.44
+R;Miami;14475.05;viernes 21 de abril de 2017;Seat;3396;11079.05
+S;Miami;41059.75;domingo 05 de marzo de 2017;Peugeot;287741;-246681.25
+P;Miami;34750.41;sábado 25 de noviembre de 2017;Volvo;579877;-545126.59
+Q;Miami;5657.8;viernes 29 de diciembre de 2017;Suzuki;121590;-115932.2
+A;Miami;40221.2;miércoles 22 de febrero de 2017;Mercedes-Benz;665685;-625463.8
+Q;Miami;1916.64;miércoles 25 de octubre de 2017;Suzuki;121590;-119673.36
+I;Miami;33250.72;viernes 04 de agosto de 2017;Hyundai;121889;-88638.28
+C;Miami;43387.02;viernes 17 de febrero de 2017;Ford;145385;-101997.98
+K;Miami;4232.15;lunes 30 de octubre de 2017;Toyota;509328;-505095.85
+G;Miami;13892.25;lunes 13 de febrero de 2017;Jeep;62985;-49092.75
+N;Miami;17934.37;sábado 11 de marzo de 2017;BMW;366207;-348272.63
+D;Miami;5498.51;sábado 11 de febrero de 2017;Jaguar;384724;-379225.49
+F;Miami;46626.14;jueves 25 de mayo de 2017;Citroen;361084;-314457.86
+I;Miami;30324.38;miércoles 08 de noviembre de 2017;Hyundai;121889;-91564.62
+J;Miami;49993.3;miércoles 13 de septiembre de 2017;Mitsubishi;362567;-312573.7
+L;Miami;8373.12;viernes 08 de diciembre de 2017;Volkswagen;478975;-470601.88
+K;Miami;30757.76;martes 03 de enero de 2017;Toyota;509328;-478570.24
+K;Miami;7006.7;lunes 04 de diciembre de 2017;Toyota;509328;-502321.3
+L;Miami;3655.12;lunes 02 de octubre de 2017;Volkswagen;478975;-475319.88
+J;Miami;9398.52;sábado 02 de septiembre de 2017;Mitsubishi;362567;-353168.48
+E;Miami;17439.42;viernes 02 de junio de 2017;Kia;526617;-509177.58
+F;Miami;14917.88;lunes 28 de agosto de 2017;Citroen;361084;-346166.12
+P;Miami;43908.66;sábado 18 de marzo de 2017;Volvo;579877;-535968.34
+O;Miami;6080.29;sábado 14 de enero de 2017;Fiat;117711;-111630.71
+R;Miami;29155.38;miércoles 13 de diciembre de 2017;Seat;3396;25759.38
+A;Miami;15945.19;sábado 18 de febrero de 2017;Mercedes-Benz;665685;-649739.81
+A;Miami;15822.97;lunes 03 de abril de 2017;Mercedes-Benz;665685;-649862.03
+L;Miami;2260.65;jueves 03 de agosto de 2017;Volkswagen;478975;-476714.35
+C;Miami;19589.52;viernes 28 de julio de 2017;Ford;145385;-125795.48
+J;Miami;43290.23;miércoles 29 de noviembre de 2017;Mitsubishi;362567;-319276.77
+A;Miami;44184.31;lunes 13 de noviembre de 2017;Mercedes-Benz;665685;-621500.69
+G;Miami;4600.48;domingo 12 de marzo de 2017;Jeep;62985;-58384.52
+B;Miami;39826.01;miércoles 21 de junio de 2017;Audi;506811;-466984.99
+I;Miami;43990.13;sábado 16 de diciembre de 2017;Hyundai;121889;-77898.87
+T;Miami;5389.55;lunes 25 de septiembre de 2017;Isuzu;288473;-283083.45
+Q;Miami;15907.76;martes 17 de enero de 2017;Suzuki;121590;-105682.24
+L;Miami;22455.78;sábado 05 de agosto de 2017;Volkswagen;478975;-456519.22
+E;Miami;16541.88;martes 15 de agosto de 2017;Kia;526617;-510075.12
+R;Miami;31270.93;lunes 13 de marzo de 2017;Seat;3396;27874.93
+C;Miami;5803.44;martes 24 de octubre de 2017;Ford;145385;-139581.56
+N;Miami;30298.16;domingo 19 de marzo de 2017;BMW;366207;-335908.84
+O;Miami;8349.14;lunes 27 de noviembre de 2017;Fiat;117711;-109361.86
+G;Miami;41409.85;miércoles 02 de agosto de 2017;Jeep;62985;-21575.15
+P;Miami;7276.93;viernes 08 de septiembre de 2017;Volvo;579877;-572600.07
+C;Miami;44956.61;jueves 19 de enero de 2017;Ford;145385;-100428.39
+G;Miami;8586.06;lunes 12 de junio de 2017;Jeep;62985;-54398.94
+J;Miami;22371.49;jueves 02 de marzo de 2017;Mitsubishi;362567;-340195.51
+Q;Miami;46208.26;viernes 24 de febrero de 2017;Suzuki;121590;-75381.74
+A;Miami;1726.07;viernes 07 de julio de 2017;Mercedes-Benz;665685;-663958.93
+I;Miami;33185.93;lunes 13 de marzo de 2017;Hyundai;121889;-88703.07
+H;Miami;31660.11;martes 14 de noviembre de 2017;Renault;417019;-385358.89
+E;Miami;16897.47;sábado 26 de agosto de 2017;Kia;526617;-509719.53
+H;Miami;38123.39;martes 28 de marzo de 2017;Renault;417019;-378895.61
+B;Miami;15532.53;viernes 15 de septiembre de 2017;Audi;506811;-491278.47
+H;Miami;18587.17;domingo 18 de junio de 2017;Renault;417019;-398431.83
+A;Miami;36016.02;miércoles 09 de agosto de 2017;Mercedes-Benz;665685;-629668.98
+E;Miami;39404.35;jueves 20 de abril de 2017;Kia;526617;-487212.65
+Q;Miami;47531.36;sábado 18 de febrero de 2017;Suzuki;121590;-74058.64
+A;Miami;37579.98;viernes 27 de enero de 2017;Mercedes-Benz;665685;-628105.02
+Q;Miami;37351.6;viernes 24 de marzo de 2017;Suzuki;121590;-84238.4
+Q;Miami;7786.01;viernes 31 de marzo de 2017;Suzuki;121590;-113803.99
+B;Miami;22422.99;miércoles 15 de marzo de 2017;Audi;506811;-484388.01
+Q;Miami;47732.11;martes 12 de diciembre de 2017;Suzuki;121590;-73857.89
+C;Miami;7643.16;jueves 23 de noviembre de 2017;Ford;145385;-137741.84
+E;Miami;21323.45;jueves 23 de febrero de 2017;Kia;526617;-505293.55
+S;Miami;46299.9;domingo 23 de julio de 2017;Peugeot;287741;-241441.1
+F;Miami;26663.1;domingo 01 de octubre de 2017;Citroen;361084;-334420.9
+P;Miami;25056.74;sábado 03 de junio de 2017;Volvo;579877;-554820.26
+T;Miami;9159.15;domingo 07 de mayo de 2017;Isuzu;288473;-279313.85
+J;Miami;28479.23;martes 24 de octubre de 2017;Mitsubishi;362567;-334087.77
+S;Miami;2083.98;jueves 16 de noviembre de 2017;Peugeot;287741;-285657.02
+T;Miami;9191.17;miércoles 30 de agosto de 2017;Isuzu;288473;-279281.83
+J;Miami;7501.14;sábado 29 de julio de 2017;Mitsubishi;362567;-355065.86
+M;Miami;16619.92;martes 03 de octubre de 2017;Mazda;327078;-310458.08
+D;Miami;22917.83;sábado 04 de noviembre de 2017;Jaguar;384724;-361806.17
+O;Miami;11336.11;sábado 04 de noviembre de 2017;Fiat;117711;-106374.89
+F;Miami;40175.54;sábado 30 de septiembre de 2017;Citroen;361084;-320908.46
+C;Miami;42900.76;viernes 17 de marzo de 2017;Ford;145385;-102484.24
+N;Miami;3756.3;miércoles 13 de septiembre de 2017;BMW;366207;-362450.7
+R;Miami;48716.21;domingo 02 de julio de 2017;Seat;3396;45320.21
+B;Miami;18024.58;sábado 14 de octubre de 2017;Audi;506811;-488786.42
+O;Miami;23416.1;sábado 04 de noviembre de 2017;Fiat;117711;-94294.9
+A;Miami;37335.4;viernes 09 de junio de 2017;Mercedes-Benz;665685;-628349.6
+T;Miami;38975.32;viernes 08 de diciembre de 2017;Isuzu;288473;-249497.68
+P;Miami;29342.62;miércoles 19 de abril de 2017;Volvo;579877;-550534.38
+B;Miami;37700.13;viernes 31 de marzo de 2017;Audi;506811;-469110.87
+N;Miami;12807.73;miércoles 09 de agosto de 2017;BMW;366207;-353399.27
+I;Miami;19192.71;miércoles 25 de octubre de 2017;Hyundai;121889;-102696.29
+T;Miami;32700.21;sábado 18 de febrero de 2017;Isuzu;288473;-255772.79
+T;Miami;48745.27;martes 09 de mayo de 2017;Isuzu;288473;-239727.73
+N;Miami;8645.61;sábado 26 de agosto de 2017;BMW;366207;-357561.39
+G;Miami;16093.53;domingo 24 de diciembre de 2017;Jeep;62985;-46891.47
+S;Miami;24581.43;lunes 06 de marzo de 2017;Peugeot;287741;-263159.57
+P;Miami;46941.32;sábado 20 de mayo de 2017;Volvo;579877;-532935.68
+T;Miami;38896.42;lunes 08 de mayo de 2017;Isuzu;288473;-249576.58
+J;Miami;9986.13;sábado 17 de junio de 2017;Mitsubishi;362567;-352580.87
+L;Miami;21571.29;lunes 06 de febrero de 2017;Volkswagen;478975;-457403.71
+Q;Miami;30089.13;lunes 08 de mayo de 2017;Suzuki;121590;-91500.87
+I;Miami;44915.3;jueves 31 de agosto de 2017;Hyundai;121889;-76973.7
+O;Miami;13887.7;martes 25 de abril de 2017;Fiat;117711;-103823.3
+C;Miami;40409.85;viernes 31 de marzo de 2017;Ford;145385;-104975.15
+K;Miami;33054.24;domingo 28 de mayo de 2017;Toyota;509328;-476273.76
+C;Miami;42870.81;domingo 19 de febrero de 2017;Ford;145385;-102514.19
+S;Miami;27093.41;miércoles 28 de junio de 2017;Peugeot;287741;-260647.59
+Q;Miami;41954.7;miércoles 06 de diciembre de 2017;Suzuki;121590;-79635.3
+D;Miami;42982.9;viernes 22 de diciembre de 2017;Jaguar;384724;-341741.1
+Q;Miami;41711.92;jueves 07 de diciembre de 2017;Suzuki;121590;-79878.08
+J;Miami;29743.08;martes 25 de abril de 2017;Mitsubishi;362567;-332823.92
+E;Miami;22045.01;lunes 13 de marzo de 2017;Kia;526617;-504571.99
+S;Miami;45692.66;lunes 02 de enero de 2017;Peugeot;287741;-242048.34
+H;Miami;49501.32;martes 21 de noviembre de 2017;Renault;417019;-367517.68
+I;Miami;48794.25;jueves 08 de junio de 2017;Hyundai;121889;-73094.75
+A;Miami;15868.01;jueves 16 de febrero de 2017;Mercedes-Benz;665685;-649816.99
+K;Miami;6660.78;viernes 01 de septiembre de 2017;Toyota;509328;-502667.22
+R;Miami;45249.93;miércoles 05 de julio de 2017;Seat;3396;41853.93
+L;Miami;28137.77;lunes 20 de febrero de 2017;Volkswagen;478975;-450837.23
+H;Miami;36577.58;lunes 20 de noviembre de 2017;Renault;417019;-380441.42
+R;Miami;24598.5;domingo 25 de junio de 2017;Seat;3396;21202.5
+C;Miami;25299.35;jueves 18 de mayo de 2017;Ford;145385;-120085.65
+I;Miami;11498.62;miércoles 27 de diciembre de 2017;Hyundai;121889;-110390.38
+L;Miami;23083.15;domingo 09 de julio de 2017;Volkswagen;478975;-455891.85
+N;Miami;37967.33;lunes 15 de mayo de 2017;BMW;366207;-328239.67
+O;Miami;47197.41;martes 14 de febrero de 2017;Fiat;117711;-70513.59
+N;Miami;39382.52;sábado 23 de septiembre de 2017;BMW;366207;-326824.48
+M;Miami;27064.8;viernes 14 de julio de 2017;Mazda;327078;-300013.2
+P;Miami;7452.52;jueves 16 de febrero de 2017;Volvo;579877;-572424.48
+E;Miami;40438.46;martes 06 de junio de 2017;Kia;526617;-486178.54
+P;Miami;38797.76;miércoles 28 de junio de 2017;Volvo;579877;-541079.24
+R;Miami;47596.8;lunes 12 de junio de 2017;Seat;3396;44200.8
+M;Miami;4090.23;viernes 07 de abril de 2017;Mazda;327078;-322987.77
+Q;Miami;40955.43;martes 29 de agosto de 2017;Suzuki;121590;-80634.57
+A;Miami;5171.2;domingo 02 de julio de 2017;Mercedes-Benz;665685;-660513.8
+N;Miami;13600.84;miércoles 28 de junio de 2017;BMW;366207;-352606.16
+U;Miami;19532.42;lunes 17 de abril de 2017;Nissan;56659;-37126.58
+M;Miami;14368.05;jueves 23 de febrero de 2017;Mazda;327078;-312709.95
+O;Miami;37795.3;sábado 27 de mayo de 2017;Fiat;117711;-79915.7
+P;Miami;42070.83;viernes 24 de noviembre de 2017;Volvo;579877;-537806.17
+B;Miami;38294.38;domingo 27 de agosto de 2017;Audi;506811;-468516.62
+C;Miami;29562.66;martes 13 de junio de 2017;Ford;145385;-115822.34
+I;Miami;37399.28;sábado 17 de junio de 2017;Hyundai;121889;-84489.72
+R;Miami;6012.08;martes 19 de diciembre de 2017;Seat;3396;2616.08
+A;Miami;41932.85;domingo 16 de julio de 2017;Mercedes-Benz;665685;-623752.15
+M;Miami;29506.4;martes 29 de agosto de 2017;Mazda;327078;-297571.6
+U;Miami;36972.9;miércoles 08 de febrero de 2017;Nissan;56659;-19686.1
+H;Miami;10036.1;miércoles 01 de noviembre de 2017;Renault;417019;-406982.9
+U;Miami;34485.59;martes 25 de abril de 2017;Nissan;56659;-22173.41
+Q;Miami;48820.15;miércoles 15 de marzo de 2017;Suzuki;121590;-72769.85
+C;Miami;35355.54;domingo 18 de junio de 2017;Ford;145385;-110029.46
+S;Miami;47853.72;martes 21 de noviembre de 2017;Peugeot;287741;-239887.28
+A;Miami;13030.15;domingo 17 de diciembre de 2017;Mercedes-Benz;665685;-652654.85
+Q;Miami;40366.34;domingo 15 de octubre de 2017;Suzuki;121590;-81223.66
+K;Miami;37474.92;sábado 25 de noviembre de 2017;Toyota;509328;-471853.08
+T;Miami;23256.14;domingo 08 de enero de 2017;Isuzu;288473;-265216.86
+F;Miami;44749.82;jueves 12 de octubre de 2017;Citroen;361084;-316334.18
+A;Miami;17853.92;domingo 21 de mayo de 2017;Mercedes-Benz;665685;-647831.08
+T;Miami;38363.7;martes 26 de diciembre de 2017;Isuzu;288473;-250109.3
+S;Miami;4726.74;lunes 27 de noviembre de 2017;Peugeot;287741;-283014.26
+B;Miami;49013.69;sábado 04 de febrero de 2017;Audi;506811;-457797.31
+S;Miami;29134.21;domingo 04 de junio de 2017;Peugeot;287741;-258606.79
+S;Miami;14209.82;domingo 16 de abril de 2017;Peugeot;287741;-273531.18
+G;Miami;31472.46;lunes 04 de septiembre de 2017;Jeep;62985;-31512.54
+B;Miami;9261.75;viernes 02 de junio de 2017;Audi;506811;-497549.25
+U;Miami;36258.09;sábado 15 de abril de 2017;Nissan;56659;-20400.91
+U;Miami;47608.3;lunes 06 de marzo de 2017;Nissan;56659;-9050.7
+P;Miami;29806.74;jueves 09 de febrero de 2017;Volvo;579877;-550070.26
+O;Miami;376.45;lunes 13 de febrero de 2017;Fiat;117711;-117334.55
+M;Miami;2494.76;martes 25 de julio de 2017;Mazda;327078;-324583.24
+E;Miami;6973.31;domingo 14 de mayo de 2017;Kia;526617;-519643.69
+K;Miami;29395.31;sábado 18 de febrero de 2017;Toyota;509328;-479932.69
+Q;Miami;29208.59;miércoles 08 de febrero de 2017;Suzuki;121590;-92381.41
+N;Miami;36958.92;miércoles 26 de julio de 2017;BMW;366207;-329248.08
+D;Miami;41317.6;sábado 08 de julio de 2017;Jaguar;384724;-343406.4
+M;Miami;46557.69;miércoles 20 de septiembre de 2017;Mazda;327078;-280520.31
+Q;Miami;36141.18;domingo 12 de noviembre de 2017;Suzuki;121590;-85448.82
+E;Miami;36392.61;lunes 30 de octubre de 2017;Kia;526617;-490224.39
+S;Miami;47983.17;domingo 05 de noviembre de 2017;Peugeot;287741;-239757.83
+U;Miami;42549.91;viernes 04 de agosto de 2017;Nissan;56659;-14109.09
+J;Miami;47666.34;viernes 02 de junio de 2017;Mitsubishi;362567;-314900.66
+C;Miami;21803.51;jueves 28 de septiembre de 2017;Ford;145385;-123581.49
+S;Miami;44836.03;martes 12 de diciembre de 2017;Peugeot;287741;-242904.97
+J;Miami;32402.61;martes 19 de septiembre de 2017;Mitsubishi;362567;-330164.39
+N;Miami;25638.36;martes 10 de enero de 2017;BMW;366207;-340568.64
+A;Miami;10126.18;jueves 16 de marzo de 2017;Mercedes-Benz;665685;-655558.82
+H;Miami;36767.28;domingo 23 de abril de 2017;Renault;417019;-380251.72
+F;Miami;24131.62;lunes 23 de enero de 2017;Citroen;361084;-336952.38
+N;Miami;20663.91;jueves 08 de junio de 2017;BMW;366207;-345543.09
+I;Miami;16992.27;jueves 17 de agosto de 2017;Hyundai;121889;-104896.73
+R;Miami;48456.34;miércoles 13 de septiembre de 2017;Seat;3396;45060.34
+H;Miami;30226.2;viernes 13 de enero de 2017;Renault;417019;-386792.8
+C;Miami;35684.42;jueves 23 de febrero de 2017;Ford;145385;-109700.58
+K;Miami;1644.74;sábado 29 de abril de 2017;Toyota;509328;-507683.26
+S;Miami;24078.84;martes 13 de junio de 2017;Peugeot;287741;-263662.16
+L;Miami;25819.07;sábado 21 de octubre de 2017;Volkswagen;478975;-453155.93
+G;Miami;9344.33;domingo 29 de enero de 2017;Jeep;62985;-53640.67
+B;Miami;35788.73;domingo 02 de julio de 2017;Audi;506811;-471022.27
+P;Miami;5163.63;sábado 01 de abril de 2017;Volvo;579877;-574713.37
+B;Miami;41098.15;lunes 20 de marzo de 2017;Audi;506811;-465712.85
+A;Miami;42542.19;sábado 08 de abril de 2017;Mercedes-Benz;665685;-623142.81
+E;Miami;32823.73;martes 22 de agosto de 2017;Kia;526617;-493793.27
+T;Miami;2237.66;domingo 06 de agosto de 2017;Isuzu;288473;-286235.34
+C;Miami;37852.59;martes 07 de febrero de 2017;Ford;145385;-107532.41
+B;Miami;5510.17;domingo 15 de enero de 2017;Audi;506811;-501300.83
+P;Miami;20637.35;lunes 13 de noviembre de 2017;Volvo;579877;-559239.65
+C;Miami;40588.8;viernes 21 de abril de 2017;Ford;145385;-104796.2
+M;Miami;28592.99;domingo 23 de abril de 2017;Mazda;327078;-298485.01
+K;Miami;14613.55;viernes 23 de junio de 2017;Toyota;509328;-494714.45
+P;Miami;4819.4;miércoles 12 de abril de 2017;Volvo;579877;-575057.6
+O;Miami;35101.22;lunes 31 de julio de 2017;Fiat;117711;-82609.78
+I;Miami;34714.95;lunes 03 de julio de 2017;Hyundai;121889;-87174.05
+I;Miami;30976.78;martes 31 de octubre de 2017;Hyundai;121889;-90912.22
+N;Miami;48094.42;martes 14 de febrero de 2017;BMW;366207;-318112.58
+E;Miami;15732.84;miércoles 28 de junio de 2017;Kia;526617;-510884.16
+A;Miami;29262.88;domingo 13 de agosto de 2017;Mercedes-Benz;665685;-636422.12
+C;Miami;18352.44;viernes 16 de junio de 2017;Ford;145385;-127032.56
+A;Miami;18664.04;jueves 25 de mayo de 2017;Mercedes-Benz;665685;-647020.96
+E;Miami;37175.58;martes 05 de diciembre de 2017;Kia;526617;-489441.42
+U;Miami;36431.9;jueves 02 de febrero de 2017;Nissan;56659;-20227.1
+T;Miami;11085.34;jueves 05 de enero de 2017;Isuzu;288473;-277387.66
+O;Miami;11407.77;jueves 15 de junio de 2017;Fiat;117711;-106303.23
+E;Miami;21342.65;jueves 30 de noviembre de 2017;Kia;526617;-505274.35
+S;Miami;8385.41;lunes 10 de abril de 2017;Peugeot;287741;-279355.59
+I;Miami;31623.18;jueves 04 de mayo de 2017;Hyundai;121889;-90265.82
+R;Miami;12072.03;martes 28 de marzo de 2017;Seat;3396;8676.03
+A;Miami;45405.21;miércoles 08 de marzo de 2017;Mercedes-Benz;665685;-620279.79
+C;Miami;46460.49;viernes 09 de junio de 2017;Ford;145385;-98924.51
+O;Miami;530.39;lunes 17 de julio de 2017;Fiat;117711;-117180.61
+D;Miami;34336.51;sábado 19 de agosto de 2017;Jaguar;384724;-350387.49
+D;Miami;21501.93;martes 07 de marzo de 2017;Jaguar;384724;-363222.07
+Q;Miami;22988.93;domingo 26 de febrero de 2017;Suzuki;121590;-98601.07
+E;Miami;41511.12;miércoles 01 de marzo de 2017;Kia;526617;-485105.88
+B;Miami;48515.41;jueves 09 de noviembre de 2017;Audi;506811;-458295.59
+C;Miami;48828.68;lunes 26 de junio de 2017;Ford;145385;-96556.32
+Q;Miami;21717.48;jueves 30 de noviembre de 2017;Suzuki;121590;-99872.52
+F;Miami;21532.48;miércoles 18 de enero de 2017;Citroen;361084;-339551.52
+S;Miami;6285.67;martes 24 de octubre de 2017;Peugeot;287741;-281455.33
+S;Miami;18092.68;jueves 30 de noviembre de 2017;Peugeot;287741;-269648.32
+S;Miami;37789.26;jueves 15 de junio de 2017;Peugeot;287741;-249951.74
+L;Miami;42061.52;jueves 16 de noviembre de 2017;Volkswagen;478975;-436913.48
+B;Miami;35181.91;sábado 18 de febrero de 2017;Audi;506811;-471629.09
+P;Miami;17231.97;sábado 27 de mayo de 2017;Volvo;579877;-562645.03
+A;Miami;38505.84;domingo 02 de abril de 2017;Mercedes-Benz;665685;-627179.16
+D;Miami;1343.3;martes 28 de febrero de 2017;Jaguar;384724;-383380.7
+H;For Worth;25389;miércoles 25 de enero de 2017;Renault;417019;-391630
+R;For Worth;11280.44;sábado 27 de mayo de 2017;Seat;3396;7884.44
+C;For Worth;39890.3;martes 12 de septiembre de 2017;Ford;145385;-105494.7
+L;For Worth;5840.05;miércoles 13 de diciembre de 2017;Volkswagen;478975;-473134.95
+M;For Worth;47776.96;miércoles 15 de marzo de 2017;Mazda;327078;-279301.04
+A;For Worth;24596.39;martes 14 de marzo de 2017;Mercedes-Benz;665685;-641088.61
+S;For Worth;13797.29;sábado 20 de mayo de 2017;Peugeot;287741;-273943.71
+P;For Worth;17946.39;lunes 20 de noviembre de 2017;Volvo;579877;-561930.61
+L;For Worth;42380.74;jueves 03 de agosto de 2017;Volkswagen;478975;-436594.26
+H;For Worth;15039.5;domingo 18 de junio de 2017;Renault;417019;-401979.5
+O;For Worth;46631.73;domingo 12 de febrero de 2017;Fiat;117711;-71079.27
+Q;For Worth;11097.78;miércoles 08 de febrero de 2017;Suzuki;121590;-110492.22
+T;For Worth;49933.73;jueves 26 de enero de 2017;Isuzu;288473;-238539.27
+T;For Worth;37717.17;viernes 24 de noviembre de 2017;Isuzu;288473;-250755.83
+O;For Worth;33103.43;viernes 18 de agosto de 2017;Fiat;117711;-84607.57
+L;For Worth;3571.78;lunes 28 de agosto de 2017;Volkswagen;478975;-475403.22
+K;For Worth;22051.36;jueves 27 de julio de 2017;Toyota;509328;-487276.64
+L;For Worth;42735.09;sábado 01 de abril de 2017;Volkswagen;478975;-436239.91
+H;For Worth;42236.77;viernes 03 de febrero de 2017;Renault;417019;-374782.23
+R;For Worth;2546.27;sábado 12 de agosto de 2017;Seat;3396;-849.73
+J;For Worth;38917.85;viernes 31 de marzo de 2017;Mitsubishi;362567;-323649.15
+B;For Worth;26745.68;sábado 02 de diciembre de 2017;Audi;506811;-480065.32
+H;For Worth;48354.37;domingo 09 de abril de 2017;Renault;417019;-368664.63
+D;For Worth;37911.19;domingo 19 de noviembre de 2017;Jaguar;384724;-346812.81
+T;For Worth;45427.85;martes 16 de mayo de 2017;Isuzu;288473;-243045.15
+N;For Worth;34104.33;domingo 09 de abril de 2017;BMW;366207;-332102.67
+J;For Worth;47061.72;domingo 19 de noviembre de 2017;Mitsubishi;362567;-315505.28
+R;For Worth;31195.26;sábado 01 de abril de 2017;Seat;3396;27799.26
+Q;For Worth;9949.11;jueves 27 de abril de 2017;Suzuki;121590;-111640.89
+A;For Worth;18662.13;sábado 02 de septiembre de 2017;Mercedes-Benz;665685;-647022.87
+L;For Worth;46515.12;jueves 12 de octubre de 2017;Volkswagen;478975;-432459.88
+S;For Worth;43139.22;sábado 29 de julio de 2017;Peugeot;287741;-244601.78
+D;For Worth;9259.16;miércoles 26 de julio de 2017;Jaguar;384724;-375464.84
+K;For Worth;9742.96;martes 28 de febrero de 2017;Toyota;509328;-499585.04
+O;For Worth;27006.26;sábado 25 de noviembre de 2017;Fiat;117711;-90704.74
+C;For Worth;1120.89;miércoles 14 de junio de 2017;Ford;145385;-144264.11
+K;For Worth;8879.3;domingo 19 de febrero de 2017;Toyota;509328;-500448.7
+T;For Worth;23338.32;sábado 18 de marzo de 2017;Isuzu;288473;-265134.68
+F;For Worth;3645.88;sábado 15 de abril de 2017;Citroen;361084;-357438.12
+K;For Worth;32518.24;jueves 14 de septiembre de 2017;Toyota;509328;-476809.76
+E;For Worth;12694.72;lunes 04 de diciembre de 2017;Kia;526617;-513922.28
+E;For Worth;29453.88;martes 15 de agosto de 2017;Kia;526617;-497163.12
+J;For Worth;22301.92;miércoles 13 de septiembre de 2017;Mitsubishi;362567;-340265.08
+M;For Worth;33219.31;jueves 15 de junio de 2017;Mazda;327078;-293858.69
+T;For Worth;30862.49;jueves 30 de marzo de 2017;Isuzu;288473;-257610.51
+T;For Worth;37751.69;jueves 20 de abril de 2017;Isuzu;288473;-250721.31
+A;For Worth;49975.46;miércoles 13 de diciembre de 2017;Mercedes-Benz;665685;-615709.54
+L;For Worth;24812.93;lunes 05 de junio de 2017;Volkswagen;478975;-454162.07
+O;For Worth;4601.39;lunes 23 de octubre de 2017;Fiat;117711;-113109.61
+N;For Worth;47778.56;domingo 16 de julio de 2017;BMW;366207;-318428.44
+R;For Worth;17782.1;domingo 09 de abril de 2017;Seat;3396;14386.1
+I;For Worth;4187.76;viernes 19 de mayo de 2017;Hyundai;121889;-117701.24
+T;For Worth;3084;miércoles 05 de julio de 2017;Isuzu;288473;-285389
+D;For Worth;41205.47;viernes 03 de febrero de 2017;Jaguar;384724;-343518.53
+O;For Worth;18431.44;miércoles 15 de noviembre de 2017;Fiat;117711;-99279.56
+J;For Worth;28206.06;martes 12 de septiembre de 2017;Mitsubishi;362567;-334360.94
+R;For Worth;27348.93;lunes 14 de agosto de 2017;Seat;3396;23952.93
+E;For Worth;48868.16;domingo 26 de febrero de 2017;Kia;526617;-477748.84
+D;For Worth;24136.28;jueves 18 de mayo de 2017;Jaguar;384724;-360587.72
+E;For Worth;2342.55;sábado 14 de enero de 2017;Kia;526617;-524274.45
+Q;For Worth;3277.85;lunes 20 de marzo de 2017;Suzuki;121590;-118312.15
+R;For Worth;37898.66;lunes 30 de enero de 2017;Seat;3396;34502.66
+Q;For Worth;47942.12;viernes 19 de mayo de 2017;Suzuki;121590;-73647.88
+I;For Worth;2189.62;sábado 28 de octubre de 2017;Hyundai;121889;-119699.38
+A;For Worth;28308.05;miércoles 11 de enero de 2017;Mercedes-Benz;665685;-637376.95
+A;For Worth;12400.96;viernes 09 de junio de 2017;Mercedes-Benz;665685;-653284.04
+Q;For Worth;13015.48;domingo 02 de julio de 2017;Suzuki;121590;-108574.52
+H;For Worth;41779.64;domingo 28 de mayo de 2017;Renault;417019;-375239.36
+Q;For Worth;4534.45;miércoles 12 de julio de 2017;Suzuki;121590;-117055.55
+O;For Worth;6265.56;domingo 09 de abril de 2017;Fiat;117711;-111445.44
+D;For Worth;25039.96;sábado 18 de noviembre de 2017;Jaguar;384724;-359684.04
+R;For Worth;7890.7;sábado 23 de diciembre de 2017;Seat;3396;4494.7
+M;For Worth;43036.99;martes 09 de mayo de 2017;Mazda;327078;-284041.01
+I;For Worth;31216.12;lunes 22 de mayo de 2017;Hyundai;121889;-90672.88
+E;For Worth;3338.09;lunes 27 de febrero de 2017;Kia;526617;-523278.91
+E;For Worth;24316.73;martes 28 de noviembre de 2017;Kia;526617;-502300.27
+Q;For Worth;23911.07;lunes 31 de julio de 2017;Suzuki;121590;-97678.93
+G;For Worth;35599.8;jueves 02 de marzo de 2017;Jeep;62985;-27385.2
+R;For Worth;43332.35;miércoles 08 de marzo de 2017;Seat;3396;39936.35
+B;For Worth;19365.11;martes 12 de diciembre de 2017;Audi;506811;-487445.89
+J;For Worth;44958.72;viernes 19 de mayo de 2017;Mitsubishi;362567;-317608.28
+J;For Worth;13955.92;lunes 26 de junio de 2017;Mitsubishi;362567;-348611.08
+B;For Worth;34924.1;viernes 24 de noviembre de 2017;Audi;506811;-471886.9
+F;For Worth;43815.12;miércoles 27 de septiembre de 2017;Citroen;361084;-317268.88
+E;For Worth;5581.4;sábado 20 de mayo de 2017;Kia;526617;-521035.6
+F;For Worth;36314.08;domingo 12 de febrero de 2017;Citroen;361084;-324769.92
+C;For Worth;19527.54;jueves 14 de diciembre de 2017;Ford;145385;-125857.46
+I;For Worth;35807.31;jueves 07 de diciembre de 2017;Hyundai;121889;-86081.69
+S;For Worth;29469.67;jueves 11 de mayo de 2017;Peugeot;287741;-258271.33
+F;For Worth;36807.22;sábado 04 de noviembre de 2017;Citroen;361084;-324276.78
+G;For Worth;42894.69;miércoles 07 de junio de 2017;Jeep;62985;-20090.31
+N;For Worth;48432.42;domingo 01 de enero de 2017;BMW;366207;-317774.58
+F;For Worth;7686.34;jueves 20 de julio de 2017;Citroen;361084;-353397.66
+D;For Worth;31381.19;miércoles 01 de noviembre de 2017;Jaguar;384724;-353342.81
+C;For Worth;43324.72;sábado 16 de septiembre de 2017;Ford;145385;-102060.28
+I;For Worth;35089.4;domingo 15 de octubre de 2017;Hyundai;121889;-86799.6
+Q;For Worth;22492.08;viernes 18 de agosto de 2017;Suzuki;121590;-99097.92
+T;For Worth;564.18;jueves 14 de diciembre de 2017;Isuzu;288473;-287908.82
+S;For Worth;15029.35;miércoles 15 de marzo de 2017;Peugeot;287741;-272711.65
+M;For Worth;4184.68;lunes 04 de septiembre de 2017;Mazda;327078;-322893.32
+K;For Worth;38135.54;jueves 17 de agosto de 2017;Toyota;509328;-471192.46
+B;For Worth;43218.32;martes 04 de abril de 2017;Audi;506811;-463592.68
+H;For Worth;22073.28;miércoles 08 de marzo de 2017;Renault;417019;-394945.72
+G;For Worth;40662.78;sábado 23 de septiembre de 2017;Jeep;62985;-22322.22
+S;For Worth;16317.82;sábado 19 de agosto de 2017;Peugeot;287741;-271423.18
+B;For Worth;23829.5;miércoles 06 de septiembre de 2017;Audi;506811;-482981.5
+P;For Worth;48760.17;jueves 18 de mayo de 2017;Volvo;579877;-531116.83
+Q;For Worth;18233.01;lunes 31 de julio de 2017;Suzuki;121590;-103356.99
+R;For Worth;24056.05;lunes 05 de junio de 2017;Seat;3396;20660.05
+F;For Worth;35796.29;viernes 14 de julio de 2017;Citroen;361084;-325287.71
+T;For Worth;11766.17;lunes 24 de julio de 2017;Isuzu;288473;-276706.83
+C;For Worth;32767.87;lunes 09 de enero de 2017;Ford;145385;-112617.13
+D;For Worth;21523.36;viernes 09 de junio de 2017;Jaguar;384724;-363200.64
+I;For Worth;26228.32;domingo 10 de diciembre de 2017;Hyundai;121889;-95660.68
+J;For Worth;41087.42;domingo 19 de marzo de 2017;Mitsubishi;362567;-321479.58
+R;For Worth;14033.75;sábado 02 de septiembre de 2017;Seat;3396;10637.75
+R;For Worth;39533.86;domingo 25 de junio de 2017;Seat;3396;36137.86
+C;For Worth;48838.45;jueves 09 de febrero de 2017;Ford;145385;-96546.55
+F;For Worth;46886.6;sábado 11 de marzo de 2017;Citroen;361084;-314197.4
+H;For Worth;12491.23;viernes 29 de diciembre de 2017;Renault;417019;-404527.77
+M;For Worth;46844.22;domingo 20 de agosto de 2017;Mazda;327078;-280233.78
+G;For Worth;37914.49;lunes 30 de octubre de 2017;Jeep;62985;-25070.51
+R;For Worth;39376.31;domingo 27 de agosto de 2017;Seat;3396;35980.31
+I;For Worth;14939.41;martes 10 de octubre de 2017;Hyundai;121889;-106949.59
+G;For Worth;27415.44;jueves 22 de junio de 2017;Jeep;62985;-35569.56
+K;For Worth;11953.78;lunes 22 de mayo de 2017;Toyota;509328;-497374.22
+N;For Worth;26135.22;jueves 27 de abril de 2017;BMW;366207;-340071.78
+A;For Worth;8810.34;martes 07 de febrero de 2017;Mercedes-Benz;665685;-656874.66
+M;For Worth;44702.79;miércoles 23 de agosto de 2017;Mazda;327078;-282375.21
+E;For Worth;12329.52;viernes 15 de diciembre de 2017;Kia;526617;-514287.48
+Q;For Worth;22903.67;martes 07 de noviembre de 2017;Suzuki;121590;-98686.33
+B;For Worth;6724.89;viernes 18 de agosto de 2017;Audi;506811;-500086.11
+P;For Worth;16255.69;miércoles 10 de mayo de 2017;Volvo;579877;-563621.31
+K;For Worth;15879.88;lunes 24 de abril de 2017;Toyota;509328;-493448.12
+N;For Worth;28898.29;domingo 05 de noviembre de 2017;BMW;366207;-337308.71
+B;For Worth;42044.14;domingo 23 de abril de 2017;Audi;506811;-464766.86
+O;For Worth;31162.86;viernes 13 de octubre de 2017;Fiat;117711;-86548.14
+I;For Worth;17386.56;lunes 29 de mayo de 2017;Hyundai;121889;-104502.44
+M;For Worth;2227.23;lunes 27 de marzo de 2017;Mazda;327078;-324850.77
+R;For Worth;12170.53;lunes 24 de abril de 2017;Seat;3396;8774.53
+L;For Worth;22278.13;domingo 19 de febrero de 2017;Volkswagen;478975;-456696.87
+C;For Worth;11431.39;lunes 27 de febrero de 2017;Ford;145385;-133953.61
+G;For Worth;47940.73;jueves 16 de noviembre de 2017;Jeep;62985;-15044.27
+F;For Worth;42510.38;domingo 10 de septiembre de 2017;Citroen;361084;-318573.62
+G;For Worth;22804.86;miércoles 08 de noviembre de 2017;Jeep;62985;-40180.14
+N;For Worth;2852.4;viernes 26 de mayo de 2017;BMW;366207;-363354.6
+I;For Worth;28717.06;lunes 03 de julio de 2017;Hyundai;121889;-93171.94
+E;For Worth;12686.9;jueves 28 de diciembre de 2017;Kia;526617;-513930.1
+T;For Worth;7239.88;jueves 26 de enero de 2017;Isuzu;288473;-281233.12
+T;For Worth;2659.52;viernes 28 de julio de 2017;Isuzu;288473;-285813.48
+K;For Worth;35237.34;jueves 28 de septiembre de 2017;Toyota;509328;-474090.66
+C;For Worth;5974.38;lunes 13 de marzo de 2017;Ford;145385;-139410.62
+T;For Worth;41782.58;domingo 09 de julio de 2017;Isuzu;288473;-246690.42
+C;For Worth;6906.15;domingo 23 de abril de 2017;Ford;145385;-138478.85
+M;For Worth;22628.92;domingo 17 de septiembre de 2017;Mazda;327078;-304449.08
+K;For Worth;32122.25;miércoles 26 de abril de 2017;Toyota;509328;-477205.75
+S;For Worth;22962.25;sábado 23 de diciembre de 2017;Peugeot;287741;-264778.75
+P;For Worth;30736.72;lunes 08 de mayo de 2017;Volvo;579877;-549140.28
+H;For Worth;23727.9;viernes 03 de febrero de 2017;Renault;417019;-393291.1
+T;For Worth;32439.82;viernes 24 de febrero de 2017;Isuzu;288473;-256033.18
+J;For Worth;26139.69;lunes 15 de mayo de 2017;Mitsubishi;362567;-336427.31
+Q;For Worth;26687.31;jueves 28 de diciembre de 2017;Suzuki;121590;-94902.69
+S;For Worth;13918.7;viernes 10 de noviembre de 2017;Peugeot;287741;-273822.3
+D;For Worth;41713.68;sábado 05 de agosto de 2017;Jaguar;384724;-343010.32
+G;For Worth;23685.52;miércoles 08 de marzo de 2017;Jeep;62985;-39299.48
+S;For Worth;49334.2;sábado 15 de abril de 2017;Peugeot;287741;-238406.8
+H;For Worth;17812.25;viernes 07 de julio de 2017;Renault;417019;-399206.75
+A;For Worth;20691.52;lunes 04 de diciembre de 2017;Mercedes-Benz;665685;-644993.48
+Q;For Worth;40934.78;lunes 27 de marzo de 2017;Suzuki;121590;-80655.22
+M;For Worth;26266.82;martes 05 de septiembre de 2017;Mazda;327078;-300811.18
+C;For Worth;41523.54;lunes 02 de enero de 2017;Ford;145385;-103861.46
+D;For Worth;46960.83;martes 23 de mayo de 2017;Jaguar;384724;-337763.17
+E;For Worth;36306.58;domingo 07 de mayo de 2017;Kia;526617;-490310.42
+F;For Worth;1684.85;miércoles 08 de noviembre de 2017;Citroen;361084;-359399.15
+M;For Worth;16816.52;lunes 01 de mayo de 2017;Mazda;327078;-310261.48
+Q;For Worth;11466.21;martes 17 de enero de 2017;Suzuki;121590;-110123.79
+M;For Worth;5878.42;lunes 04 de diciembre de 2017;Mazda;327078;-321199.58
+K;For Worth;8687.13;viernes 14 de abril de 2017;Toyota;509328;-500640.87
+O;For Worth;30296.33;miércoles 10 de mayo de 2017;Fiat;117711;-87414.67
+I;For Worth;49237.76;lunes 19 de junio de 2017;Hyundai;121889;-72651.24
+C;For Worth;34498.68;domingo 11 de junio de 2017;Ford;145385;-110886.32
+A;For Worth;43792.25;sábado 02 de diciembre de 2017;Mercedes-Benz;665685;-621892.75
+C;For Worth;38239.57;sábado 09 de diciembre de 2017;Ford;145385;-107145.43
+G;For Worth;20874.51;miércoles 19 de julio de 2017;Jeep;62985;-42110.49
+D;For Worth;21171.18;viernes 25 de agosto de 2017;Jaguar;384724;-363552.82
+M;For Worth;14207.92;martes 04 de abril de 2017;Mazda;327078;-312870.08
+D;For Worth;13383.34;viernes 29 de diciembre de 2017;Jaguar;384724;-371340.66
+S;For Worth;46144.68;martes 09 de mayo de 2017;Peugeot;287741;-241596.32
+K;For Worth;49605.48;miércoles 24 de mayo de 2017;Toyota;509328;-459722.52
+K;For Worth;46224.9;jueves 02 de noviembre de 2017;Toyota;509328;-463103.1
+F;For Worth;32234.32;miércoles 11 de enero de 2017;Citroen;361084;-328849.68
+O;For Worth;20461.82;lunes 27 de febrero de 2017;Fiat;117711;-97249.18
+P;For Worth;20677.52;jueves 16 de marzo de 2017;Volvo;579877;-559199.48
+R;For Worth;38599.75;miércoles 01 de marzo de 2017;Seat;3396;35203.75
+H;For Worth;18628.53;jueves 23 de marzo de 2017;Renault;417019;-398390.47
+S;For Worth;39281.84;jueves 02 de febrero de 2017;Peugeot;287741;-248459.16
+A;For Worth;36333.16;sábado 19 de agosto de 2017;Mercedes-Benz;665685;-629351.84
+P;For Worth;26861.98;sábado 27 de mayo de 2017;Volvo;579877;-553015.02
+L;For Worth;46222.64;miércoles 15 de febrero de 2017;Volkswagen;478975;-432752.36
+C;For Worth;17675.33;sábado 24 de junio de 2017;Ford;145385;-127709.67
+J;For Worth;13919.89;sábado 07 de octubre de 2017;Mitsubishi;362567;-348647.11
+M;For Worth;36796.28;miércoles 07 de junio de 2017;Mazda;327078;-290281.72
+M;For Worth;37700.75;martes 15 de agosto de 2017;Mazda;327078;-289377.25
+K;For Worth;10862.78;lunes 04 de septiembre de 2017;Toyota;509328;-498465.22
+G;For Worth;49437.08;jueves 06 de julio de 2017;Jeep;62985;-13547.92
+K;For Worth;8710.77;martes 18 de abril de 2017;Toyota;509328;-500617.23
+K;For Worth;10865.14;sábado 29 de abril de 2017;Toyota;509328;-498462.86
+S;For Worth;35369.31;lunes 24 de abril de 2017;Peugeot;287741;-252371.69
+S;For Worth;18613.16;miércoles 30 de agosto de 2017;Peugeot;287741;-269127.84
+U;For Worth;35117.64;lunes 25 de diciembre de 2017;Nissan;56659;-21541.36
+B;For Worth;1694.24;miércoles 28 de junio de 2017;Audi;506811;-505116.76
+T;For Worth;33308.59;martes 02 de mayo de 2017;Isuzu;288473;-255164.41
+B;For Worth;32349.18;miércoles 11 de octubre de 2017;Audi;506811;-474461.82
+R;For Worth;30032.98;martes 18 de abril de 2017;Seat;3396;26636.98
+D;For Worth;43890.82;sábado 18 de marzo de 2017;Jaguar;384724;-340833.18
+I;For Worth;28005.03;martes 07 de febrero de 2017;Hyundai;121889;-93883.97
+O;For Worth;4269.49;martes 15 de agosto de 2017;Fiat;117711;-113441.51
+E;For Worth;18836.2;miércoles 29 de noviembre de 2017;Kia;526617;-507780.8
+D;For Worth;23810.91;jueves 04 de mayo de 2017;Jaguar;384724;-360913.09
+O;For Worth;22631.25;viernes 27 de octubre de 2017;Fiat;117711;-95079.75
+C;For Worth;20904.5;lunes 31 de julio de 2017;Ford;145385;-124480.5
+S;For Worth;34323.09;lunes 25 de diciembre de 2017;Peugeot;287741;-253417.91
+P;For Worth;27618.29;domingo 19 de marzo de 2017;Volvo;579877;-552258.71
+B;For Worth;34318.93;viernes 04 de agosto de 2017;Audi;506811;-472492.07
+T;For Worth;9007.62;domingo 18 de junio de 2017;Isuzu;288473;-279465.38
+Q;For Worth;14539.4;jueves 21 de diciembre de 2017;Suzuki;121590;-107050.6
+G;For Worth;30458.27;jueves 31 de agosto de 2017;Jeep;62985;-32526.73
+A;For Worth;13080.2;viernes 06 de enero de 2017;Mercedes-Benz;665685;-652604.8
+B;For Worth;43186.98;miércoles 30 de agosto de 2017;Audi;506811;-463624.02
+N;For Worth;2796.36;viernes 24 de noviembre de 2017;BMW;366207;-363410.64
+I;For Worth;24885.77;miércoles 01 de marzo de 2017;Hyundai;121889;-97003.23
+R;For Worth;30525.37;martes 02 de mayo de 2017;Seat;3396;27129.37
+P;For Worth;38121.05;miércoles 22 de marzo de 2017;Volvo;579877;-541755.95
+N;For Worth;46619.87;martes 03 de enero de 2017;BMW;366207;-319587.13
+K;For Worth;19930.19;viernes 13 de octubre de 2017;Toyota;509328;-489397.81
+C;For Worth;35214.92;sábado 28 de enero de 2017;Ford;145385;-110170.08
+D;For Worth;28355.72;sábado 26 de agosto de 2017;Jaguar;384724;-356368.28
+C;For Worth;29655.45;jueves 05 de enero de 2017;Ford;145385;-115729.55
+L;For Worth;17782.82;viernes 01 de diciembre de 2017;Volkswagen;478975;-461192.18
+Q;For Worth;20176.11;miércoles 19 de abril de 2017;Suzuki;121590;-101413.89
+C;For Worth;42306.08;sábado 04 de febrero de 2017;Ford;145385;-103078.92
+Q;For Worth;48063.02;lunes 20 de noviembre de 2017;Suzuki;121590;-73526.98
+B;For Worth;4010.21;miércoles 05 de julio de 2017;Audi;506811;-502800.79
+J;For Worth;15612.03;miércoles 25 de octubre de 2017;Mitsubishi;362567;-346954.97
+A;For Worth;32869.37;domingo 08 de enero de 2017;Mercedes-Benz;665685;-632815.63
+C;For Worth;29260.23;sábado 07 de octubre de 2017;Ford;145385;-116124.77
+B;Huston;21652.55;sábado 21 de octubre de 2017;Audi;506811;-485158.45
+K;Huston;46277.62;domingo 21 de mayo de 2017;Toyota;509328;-463050.38
+S;Huston;1214.37;viernes 01 de septiembre de 2017;Peugeot;287741;-286526.63
+P;Huston;3176.41;jueves 19 de octubre de 2017;Volvo;579877;-576700.59
+F;Huston;33172.14;sábado 10 de junio de 2017;Citroen;361084;-327911.86
+F;Huston;24210.31;viernes 25 de agosto de 2017;Citroen;361084;-336873.69
+B;Huston;27862.23;domingo 18 de junio de 2017;Audi;506811;-478948.77
+R;Huston;44013.96;miércoles 22 de marzo de 2017;Seat;3396;40617.96
+P;Huston;47216.08;lunes 25 de septiembre de 2017;Volvo;579877;-532660.92
+J;Huston;30085.23;domingo 28 de mayo de 2017;Mitsubishi;362567;-332481.77
+B;Huston;22894.22;sábado 26 de agosto de 2017;Audi;506811;-483916.78
+R;Huston;13243.36;jueves 09 de noviembre de 2017;Seat;3396;9847.36
+F;Huston;27740.4;lunes 20 de noviembre de 2017;Citroen;361084;-333343.6
+E;Huston;41680.04;miércoles 13 de septiembre de 2017;Kia;526617;-484936.96
+E;Huston;19896.15;martes 05 de septiembre de 2017;Kia;526617;-506720.85
+F;Huston;6150.64;miércoles 10 de mayo de 2017;Citroen;361084;-354933.36
+G;Huston;24498.57;jueves 22 de junio de 2017;Jeep;62985;-38486.43
+D;Huston;5951.44;miércoles 30 de agosto de 2017;Jaguar;384724;-378772.56
+L;Huston;19056.74;jueves 30 de marzo de 2017;Volkswagen;478975;-459918.26
+N;Huston;14935.82;lunes 25 de septiembre de 2017;BMW;366207;-351271.18
+A;Huston;31428.39;jueves 13 de julio de 2017;Mercedes-Benz;665685;-634256.61
+B;Huston;5884.19;domingo 21 de mayo de 2017;Audi;506811;-500926.81
+O;Huston;8626.84;martes 22 de agosto de 2017;Fiat;117711;-109084.16
+J;Huston;33631.37;jueves 27 de julio de 2017;Mitsubishi;362567;-328935.63
+K;Huston;40271.06;jueves 09 de marzo de 2017;Toyota;509328;-469056.94
+Q;Huston;47733.62;miércoles 30 de agosto de 2017;Suzuki;121590;-73856.38
+E;Huston;49039.67;jueves 04 de mayo de 2017;Kia;526617;-477577.33
+G;Huston;6926.81;miércoles 03 de mayo de 2017;Jeep;62985;-56058.19
+P;Huston;27731.59;sábado 18 de febrero de 2017;Volvo;579877;-552145.41
+T;Huston;6278.58;sábado 18 de febrero de 2017;Isuzu;288473;-282194.42
+M;Huston;6735.34;viernes 11 de agosto de 2017;Mazda;327078;-320342.66
+R;Huston;11675.31;viernes 13 de enero de 2017;Seat;3396;8279.31
+T;Huston;18362.26;miércoles 11 de enero de 2017;Isuzu;288473;-270110.74
+F;Huston;9022.84;miércoles 21 de junio de 2017;Citroen;361084;-352061.16
+C;Huston;42147.66;viernes 17 de febrero de 2017;Ford;145385;-103237.34
+R;Huston;48119.05;miércoles 06 de diciembre de 2017;Seat;3396;44723.05
+S;Huston;36068.54;sábado 04 de febrero de 2017;Peugeot;287741;-251672.46
+C;Huston;1815.33;domingo 09 de julio de 2017;Ford;145385;-143569.67
+S;Huston;22259.91;sábado 30 de diciembre de 2017;Peugeot;287741;-265481.09
+O;Huston;48776.81;sábado 09 de diciembre de 2017;Fiat;117711;-68934.19
+L;Huston;41843;viernes 07 de abril de 2017;Volkswagen;478975;-437132
+J;Huston;26851.54;domingo 03 de diciembre de 2017;Mitsubishi;362567;-335715.46
+M;Huston;7456.17;miércoles 19 de abril de 2017;Mazda;327078;-319621.83
+H;Huston;49571.45;martes 29 de agosto de 2017;Renault;417019;-367447.55
+A;Huston;8060.44;viernes 07 de abril de 2017;Mercedes-Benz;665685;-657624.56
+L;Huston;30765.74;jueves 26 de octubre de 2017;Volkswagen;478975;-448209.26
+D;Huston;21560.41;domingo 26 de marzo de 2017;Jaguar;384724;-363163.59
+E;Huston;30099.54;miércoles 31 de mayo de 2017;Kia;526617;-496517.46
+P;Huston;38332.99;sábado 07 de octubre de 2017;Volvo;579877;-541544.01
+N;Huston;30262.4;sábado 09 de septiembre de 2017;BMW;366207;-335944.6
+S;Huston;25537.93;domingo 16 de abril de 2017;Peugeot;287741;-262203.07
+F;Huston;24732.12;domingo 05 de febrero de 2017;Citroen;361084;-336351.88
+A;Huston;5997.82;viernes 21 de julio de 2017;Mercedes-Benz;665685;-659687.18
+M;Huston;16132.11;martes 19 de diciembre de 2017;Mazda;327078;-310945.89
+C;Huston;27196.22;miércoles 19 de abril de 2017;Ford;145385;-118188.78
+G;Huston;6310.88;miércoles 09 de agosto de 2017;Jeep;62985;-56674.12
+R;Huston;46501.93;martes 25 de julio de 2017;Seat;3396;43105.93
+N;Huston;16981.44;martes 17 de octubre de 2017;BMW;366207;-349225.56
+I;Huston;14151.3;sábado 18 de noviembre de 2017;Hyundai;121889;-107737.7
+P;Huston;1034.57;martes 11 de julio de 2017;Volvo;579877;-578842.43
+R;Huston;39426.35;sábado 18 de febrero de 2017;Seat;3396;36030.35
+N;Huston;8399.67;jueves 08 de junio de 2017;BMW;366207;-357807.33
+M;Huston;43240.52;jueves 09 de febrero de 2017;Mazda;327078;-283837.48
+G;Huston;31119.66;miércoles 05 de julio de 2017;Jeep;62985;-31865.34
+A;Huston;26821.75;sábado 16 de diciembre de 2017;Mercedes-Benz;665685;-638863.25
+G;Huston;18977.76;jueves 05 de octubre de 2017;Jeep;62985;-44007.24
+H;Huston;30313.47;miércoles 26 de julio de 2017;Renault;417019;-386705.53
+C;Huston;40462.5;domingo 26 de febrero de 2017;Ford;145385;-104922.5
+G;Huston;33197.74;jueves 01 de junio de 2017;Jeep;62985;-29787.26
+I;Huston;39761.37;miércoles 15 de marzo de 2017;Hyundai;121889;-82127.63
+B;Huston;8767.53;miércoles 26 de julio de 2017;Audi;506811;-498043.47
+M;Huston;22497.62;lunes 17 de abril de 2017;Mazda;327078;-304580.38
+F;Huston;19628.03;lunes 13 de marzo de 2017;Citroen;361084;-341455.97
+O;Huston;41947.53;lunes 11 de diciembre de 2017;Fiat;117711;-75763.47
+N;Huston;42837.4;miércoles 15 de noviembre de 2017;BMW;366207;-323369.6
+C;Huston;12562.08;miércoles 30 de agosto de 2017;Ford;145385;-132822.92
+R;Huston;11063.03;martes 08 de agosto de 2017;Seat;3396;7667.03
+J;Huston;37277.91;jueves 18 de mayo de 2017;Mitsubishi;362567;-325289.09
+L;Huston;12436.27;martes 18 de julio de 2017;Volkswagen;478975;-466538.73
+D;Huston;43104.26;jueves 08 de junio de 2017;Jaguar;384724;-341619.74
+Q;Huston;15298.66;domingo 14 de mayo de 2017;Suzuki;121590;-106291.34
+O;Huston;37831.9;domingo 10 de septiembre de 2017;Fiat;117711;-79879.1
+E;Huston;48049.08;miércoles 21 de junio de 2017;Kia;526617;-478567.92
+M;Huston;5945.71;lunes 03 de abril de 2017;Mazda;327078;-321132.29
+Q;Huston;21809.42;viernes 24 de febrero de 2017;Suzuki;121590;-99780.58
+N;Huston;652.62;lunes 11 de diciembre de 2017;BMW;366207;-365554.38
+Q;Huston;14076.75;jueves 01 de junio de 2017;Suzuki;121590;-107513.25
+F;Huston;43308.87;lunes 20 de febrero de 2017;Citroen;361084;-317775.13
+A;Huston;38363.27;martes 15 de agosto de 2017;Mercedes-Benz;665685;-627321.73
+M;Huston;45332.29;domingo 14 de mayo de 2017;Mazda;327078;-281745.71
+H;Huston;41094.6;sábado 23 de diciembre de 2017;Renault;417019;-375924.4
+N;Huston;34005.62;viernes 23 de junio de 2017;BMW;366207;-332201.38
+K;Huston;14043.31;sábado 14 de enero de 2017;Toyota;509328;-495284.69
+O;Huston;46737.47;martes 17 de octubre de 2017;Fiat;117711;-70973.53
+N;Huston;24772.37;viernes 23 de junio de 2017;BMW;366207;-341434.63
+J;Huston;6988.88;jueves 07 de diciembre de 2017;Mitsubishi;362567;-355578.12
+Q;Huston;30216.16;miércoles 11 de octubre de 2017;Suzuki;121590;-91373.84
+M;Huston;5201.02;domingo 01 de octubre de 2017;Mazda;327078;-321876.98
+A;Huston;31195.21;sábado 14 de octubre de 2017;Mercedes-Benz;665685;-634489.79
+Q;Huston;17268.07;martes 04 de julio de 2017;Suzuki;121590;-104321.93
+J;Huston;46701.84;miércoles 24 de mayo de 2017;Mitsubishi;362567;-315865.16
+G;Huston;2723.53;domingo 09 de julio de 2017;Jeep;62985;-60261.47
+A;Huston;19407.19;jueves 02 de noviembre de 2017;Mercedes-Benz;665685;-646277.81
+B;Huston;37431.95;viernes 31 de marzo de 2017;Audi;506811;-469379.05
+E;Huston;8534.83;lunes 15 de mayo de 2017;Kia;526617;-518082.17
+K;Huston;33080.45;jueves 01 de junio de 2017;Toyota;509328;-476247.55
+C;Huston;16752.67;lunes 28 de agosto de 2017;Ford;145385;-128632.33
+H;Huston;27091.03;miércoles 22 de noviembre de 2017;Renault;417019;-389927.97
+O;Huston;20744.38;domingo 01 de octubre de 2017;Fiat;117711;-96966.62
+P;Huston;29139.98;domingo 19 de marzo de 2017;Volvo;579877;-550737.02
+I;Huston;3349.23;miércoles 29 de noviembre de 2017;Hyundai;121889;-118539.77
+F;Huston;2419.03;lunes 14 de agosto de 2017;Citroen;361084;-358664.97
+F;Huston;2040.34;miércoles 15 de febrero de 2017;Citroen;361084;-359043.66
+J;Huston;22391.12;martes 18 de julio de 2017;Mitsubishi;362567;-340175.88
+C;Huston;5112.58;sábado 18 de febrero de 2017;Ford;145385;-140272.42
+I;Huston;7231.89;jueves 10 de agosto de 2017;Hyundai;121889;-114657.11
+A;Huston;16871.4;viernes 14 de julio de 2017;Mercedes-Benz;665685;-648813.6
+O;Huston;44771.1;domingo 07 de mayo de 2017;Fiat;117711;-72939.9
+F;Huston;46044.31;sábado 18 de marzo de 2017;Citroen;361084;-315039.69
+L;Huston;31578.08;jueves 18 de mayo de 2017;Volkswagen;478975;-447396.92
+I;Huston;26134.78;jueves 25 de mayo de 2017;Hyundai;121889;-95754.22
+E;Huston;30209.56;lunes 23 de enero de 2017;Kia;526617;-496407.44
+I;Huston;8716.4;lunes 06 de marzo de 2017;Hyundai;121889;-113172.6
+B;Huston;14951.83;sábado 02 de diciembre de 2017;Audi;506811;-491859.17
+K;Huston;41767.92;lunes 24 de abril de 2017;Toyota;509328;-467560.08
+J;Huston;12623.88;domingo 16 de abril de 2017;Mitsubishi;362567;-349943.12
+S;Huston;32433.25;domingo 16 de julio de 2017;Peugeot;287741;-255307.75
+O;Huston;13489.69;domingo 10 de diciembre de 2017;Fiat;117711;-104221.31
+T;Huston;19085.43;miércoles 06 de septiembre de 2017;Isuzu;288473;-269387.57
+B;Huston;19326.96;miércoles 08 de noviembre de 2017;Audi;506811;-487484.04
+J;Huston;41026.1;miércoles 01 de febrero de 2017;Mitsubishi;362567;-321540.9
+R;Huston;21014.2;jueves 14 de septiembre de 2017;Seat;3396;17618.2
+L;Huston;24290.8;viernes 29 de diciembre de 2017;Volkswagen;478975;-454684.2
+H;Huston;34538.85;sábado 23 de septiembre de 2017;Renault;417019;-382480.15
+C;Huston;34330.72;lunes 11 de septiembre de 2017;Ford;145385;-111054.28
+I;Huston;19319.44;miércoles 06 de septiembre de 2017;Hyundai;121889;-102569.56
+D;Huston;20056.51;domingo 05 de marzo de 2017;Jaguar;384724;-364667.49
+C;Huston;6170.47;domingo 12 de marzo de 2017;Ford;145385;-139214.53
+N;Huston;43349.17;sábado 18 de febrero de 2017;BMW;366207;-322857.83
+L;Huston;14118.92;miércoles 26 de julio de 2017;Volkswagen;478975;-464856.08
+Q;Huston;33155.47;miércoles 01 de febrero de 2017;Suzuki;121590;-88434.53
+E;Huston;40231.35;martes 24 de octubre de 2017;Kia;526617;-486385.65
+G;Huston;37981.3;miércoles 25 de octubre de 2017;Jeep;62985;-25003.7
+K;Huston;9778;sábado 01 de abril de 2017;Toyota;509328;-499550
+L;Huston;12386.23;jueves 16 de marzo de 2017;Volkswagen;478975;-466588.77
+G;Huston;29409.91;lunes 06 de febrero de 2017;Jeep;62985;-33575.09
+B;Huston;12489.47;lunes 24 de julio de 2017;Audi;506811;-494321.53
+B;Huston;35263.35;domingo 29 de octubre de 2017;Audi;506811;-471547.65
+N;Huston;6748.73;viernes 17 de noviembre de 2017;BMW;366207;-359458.27
+H;Huston;29324.36;martes 28 de febrero de 2017;Renault;417019;-387694.64
+J;Huston;35720.27;lunes 12 de junio de 2017;Mitsubishi;362567;-326846.73
+P;Huston;35778.9;miércoles 15 de noviembre de 2017;Volvo;579877;-544098.1
+O;Huston;38874.98;viernes 15 de diciembre de 2017;Fiat;117711;-78836.02
+B;Huston;26165.48;jueves 16 de noviembre de 2017;Audi;506811;-480645.52
+L;Huston;46767.7;domingo 29 de octubre de 2017;Volkswagen;478975;-432207.3
+U;Huston;48808.52;martes 09 de mayo de 2017;Nissan;56659;-7850.48
+S;Huston;8851.14;sábado 23 de septiembre de 2017;Peugeot;287741;-278889.86
+M;Huston;1229.81;jueves 15 de junio de 2017;Mazda;327078;-325848.19
+G;Huston;43650.27;jueves 19 de enero de 2017;Jeep;62985;-19334.73
+F;Huston;31701.05;jueves 12 de enero de 2017;Citroen;361084;-329382.95
+A;Huston;27748.77;jueves 23 de febrero de 2017;Mercedes-Benz;665685;-637936.23
+E;Huston;24508.53;jueves 11 de mayo de 2017;Kia;526617;-502108.47
+B;Huston;11426.6;sábado 04 de febrero de 2017;Audi;506811;-495384.4
+N;Huston;36891.38;jueves 17 de agosto de 2017;BMW;366207;-329315.62
+D;Huston;47850.15;domingo 12 de febrero de 2017;Jaguar;384724;-336873.85
+C;Huston;10585.38;lunes 04 de septiembre de 2017;Ford;145385;-134799.62
+Q;Huston;6157.77;martes 22 de agosto de 2017;Suzuki;121590;-115432.23
+H;Huston;26776.07;domingo 30 de abril de 2017;Renault;417019;-390242.93
+P;Huston;9017.16;martes 10 de enero de 2017;Volvo;579877;-570859.84
+A;Huston;14136.16;domingo 16 de abril de 2017;Mercedes-Benz;665685;-651548.84
+R;Huston;2803.4;miércoles 05 de abril de 2017;Seat;3396;-592.6
+K;Huston;31464.13;domingo 21 de mayo de 2017;Toyota;509328;-477863.87
+I;Huston;47050.66;jueves 03 de agosto de 2017;Hyundai;121889;-74838.34
+H;Huston;23363.81;martes 29 de agosto de 2017;Renault;417019;-393655.19
+R;Huston;15991.97;martes 18 de julio de 2017;Seat;3396;12595.97
+B;Huston;44752.88;domingo 11 de junio de 2017;Audi;506811;-462058.12
+D;Huston;11351.57;miércoles 11 de enero de 2017;Jaguar;384724;-373372.43
+S;Huston;7659.87;martes 04 de julio de 2017;Peugeot;287741;-280081.13
+N;Huston;10259.26;viernes 19 de mayo de 2017;BMW;366207;-355947.74
+O;Huston;16355.62;jueves 30 de noviembre de 2017;Fiat;117711;-101355.38
+D;Huston;44893.41;jueves 02 de noviembre de 2017;Jaguar;384724;-339830.59
+K;Huston;42385.31;domingo 30 de abril de 2017;Toyota;509328;-466942.69
+L;Huston;41383.88;viernes 16 de junio de 2017;Volkswagen;478975;-437591.12
+I;Huston;25660.13;martes 11 de abril de 2017;Hyundai;121889;-96228.87
+N;Huston;47266.93;sábado 03 de junio de 2017;BMW;366207;-318940.07
+T;Huston;2227.07;miércoles 10 de mayo de 2017;Isuzu;288473;-286245.93
+G;Huston;2982.9;miércoles 20 de diciembre de 2017;Jeep;62985;-60002.1
+R;Huston;21054.46;miércoles 17 de mayo de 2017;Seat;3396;17658.46
+B;Huston;17033.86;martes 16 de mayo de 2017;Audi;506811;-489777.14
+T;Huston;23714.66;jueves 12 de enero de 2017;Isuzu;288473;-264758.34
+L;Huston;38611.8;miércoles 30 de agosto de 2017;Volkswagen;478975;-440363.2
+M;Huston;16990.2;lunes 16 de enero de 2017;Mazda;327078;-310087.8
+C;Huston;47073.22;martes 12 de septiembre de 2017;Ford;145385;-98311.78
+N;Huston;20305.67;lunes 18 de septiembre de 2017;BMW;366207;-345901.33
+C;Huston;37944.08;martes 28 de marzo de 2017;Ford;145385;-107440.92
+E;Huston;34164.5;domingo 30 de julio de 2017;Kia;526617;-492452.5
+O;Huston;39694.83;sábado 10 de junio de 2017;Fiat;117711;-78016.17
+I;Huston;15582.59;sábado 18 de marzo de 2017;Hyundai;121889;-106306.41
+C;Huston;5526.24;sábado 28 de octubre de 2017;Ford;145385;-139858.76
+O;Huston;48593.04;viernes 06 de enero de 2017;Fiat;117711;-69117.96
+A;Huston;17162.45;viernes 28 de abril de 2017;Mercedes-Benz;665685;-648522.55
+E;Huston;48889.53;martes 01 de agosto de 2017;Kia;526617;-477727.47
+E;Huston;23967.37;martes 18 de julio de 2017;Kia;526617;-502649.63
+C;Huston;4844.24;sábado 27 de mayo de 2017;Ford;145385;-140540.76
+I;Huston;18582.73;sábado 20 de mayo de 2017;Hyundai;121889;-103306.27
+U;Huston;10216.14;domingo 23 de abril de 2017;Nissan;56659;-46442.86
+U;Huston;11132.31;viernes 22 de diciembre de 2017;Nissan;56659;-45526.69
+T;Huston;21744.95;jueves 21 de diciembre de 2017;Isuzu;288473;-266728.05
+S;Huston;40949.02;domingo 23 de julio de 2017;Peugeot;287741;-246791.98
+I;Huston;43958.46;domingo 27 de agosto de 2017;Hyundai;121889;-77930.54
+S;Huston;22055.23;jueves 16 de marzo de 2017;Peugeot;287741;-265685.77
+G;Huston;46860.54;martes 01 de agosto de 2017;Jeep;62985;-16124.46
+K;Huston;49921.16;domingo 20 de agosto de 2017;Toyota;509328;-459406.84
+N;Huston;11554.23;lunes 24 de julio de 2017;BMW;366207;-354652.77
+U;Huston;43614.09;jueves 20 de abril de 2017;Nissan;56659;-13044.91
+F;Huston;14642.1;sábado 17 de junio de 2017;Citroen;361084;-346441.9
+E;Huston;18203.09;jueves 01 de junio de 2017;Kia;526617;-508413.91
+H;Huston;5256.08;viernes 03 de noviembre de 2017;Renault;417019;-411762.92
+G;Huston;33765.82;martes 09 de mayo de 2017;Jeep;62985;-29219.18
+J;Huston;11933.55;jueves 06 de abril de 2017;Mitsubishi;362567;-350633.45
+C;Huston;27892.95;sábado 23 de septiembre de 2017;Ford;145385;-117492.05
+B;Huston;38215.73;miércoles 20 de diciembre de 2017;Audi;506811;-468595.27
+O;Huston;15228.72;jueves 27 de julio de 2017;Fiat;117711;-102482.28
+P;Huston;34780.29;miércoles 03 de mayo de 2017;Volvo;579877;-545096.71
+B;Huston;10811.35;sábado 18 de febrero de 2017;Audi;506811;-495999.65
+T;Huston;48282.54;sábado 15 de abril de 2017;Isuzu;288473;-240190.46
+T;Huston;20546.05;viernes 22 de diciembre de 2017;Isuzu;288473;-267926.95
+J;Huston;3576.96;sábado 18 de marzo de 2017;Mitsubishi;362567;-358990.04
+B;Huston;2425.39;jueves 06 de julio de 2017;Audi;506811;-504385.61
+T;Huston;30732.58;viernes 02 de junio de 2017;Isuzu;288473;-257740.42
+J;Huston;34193.93;sábado 07 de enero de 2017;Mitsubishi;362567;-328373.07
+J;Huston;22080.11;jueves 28 de diciembre de 2017;Mitsubishi;362567;-340486.89
+B;Huston;27216.16;miércoles 11 de octubre de 2017;Audi;506811;-479594.84
+R;Huston;20816.13;viernes 24 de noviembre de 2017;Seat;3396;17420.13
+O;Huston;22397.24;sábado 23 de diciembre de 2017;Fiat;117711;-95313.76
+H;Huston;2279.31;domingo 19 de marzo de 2017;Renault;417019;-414739.69
+P;Huston;27726.5;lunes 13 de marzo de 2017;Volvo;579877;-552150.5
+L;Huston;19814.44;jueves 07 de diciembre de 2017;Volkswagen;478975;-459160.56
+D;Huston;46361.41;lunes 03 de julio de 2017;Jaguar;384724;-338362.59
+K;Huston;30356.5;lunes 02 de octubre de 2017;Toyota;509328;-478971.5
+C;Huston;44558.89;sábado 23 de diciembre de 2017;Ford;145385;-100826.11
+T;Atlanta;30332.42;martes 03 de enero de 2017;Isuzu;288473;-258140.58
+I;Atlanta;4257.77;miércoles 11 de octubre de 2017;Hyundai;121889;-117631.23
+Q;Atlanta;3777.08;martes 21 de marzo de 2017;Suzuki;121590;-117812.92
+P;Atlanta;6124.08;viernes 17 de noviembre de 2017;Volvo;579877;-573752.92
+K;Atlanta;29835.98;miércoles 16 de agosto de 2017;Toyota;509328;-479492.02
+I;Atlanta;48029.04;miércoles 24 de mayo de 2017;Hyundai;121889;-73859.96
+M;Atlanta;39356.82;viernes 15 de diciembre de 2017;Mazda;327078;-287721.18
+G;Atlanta;19458.26;martes 22 de agosto de 2017;Jeep;62985;-43526.74
+A;Atlanta;6263.75;miércoles 01 de marzo de 2017;Mercedes-Benz;665685;-659421.25
+H;Atlanta;29680.01;sábado 21 de enero de 2017;Renault;417019;-387338.99
+A;Atlanta;16960.7;domingo 15 de enero de 2017;Mercedes-Benz;665685;-648724.3
+Q;Atlanta;18672.64;miércoles 11 de octubre de 2017;Suzuki;121590;-102917.36
+C;Atlanta;1961.78;viernes 14 de julio de 2017;Ford;145385;-143423.22
+C;Atlanta;39915.64;domingo 06 de agosto de 2017;Ford;145385;-105469.36
+C;Atlanta;16631.83;domingo 23 de julio de 2017;Ford;145385;-128753.17
+A;Atlanta;10903.24;miércoles 27 de septiembre de 2017;Mercedes-Benz;665685;-654781.76
+D;Atlanta;40323.71;jueves 14 de diciembre de 2017;Jaguar;384724;-344400.29
+N;Atlanta;9569.58;lunes 31 de julio de 2017;BMW;366207;-356637.42
+Q;Atlanta;11494.98;viernes 27 de octubre de 2017;Suzuki;121590;-110095.02
+P;Atlanta;11646.56;viernes 24 de noviembre de 2017;Volvo;579877;-568230.44
+A;Atlanta;35771.26;miércoles 22 de marzo de 2017;Mercedes-Benz;665685;-629913.74
+J;Atlanta;29143.05;jueves 22 de junio de 2017;Mitsubishi;362567;-333423.95
+H;Atlanta;29571.98;lunes 20 de marzo de 2017;Renault;417019;-387447.02
+H;Atlanta;41884.59;viernes 24 de noviembre de 2017;Renault;417019;-375134.41
+L;Atlanta;49423.96;domingo 04 de junio de 2017;Volkswagen;478975;-429551.04
+I;Atlanta;1296.67;viernes 07 de abril de 2017;Hyundai;121889;-120592.33
+M;Atlanta;43053.26;lunes 24 de abril de 2017;Mazda;327078;-284024.74
+G;Atlanta;15918.58;miércoles 09 de agosto de 2017;Jeep;62985;-47066.42
+R;Atlanta;1057.74;sábado 11 de marzo de 2017;Seat;3396;-2338.26
+S;Atlanta;35166.04;jueves 15 de junio de 2017;Peugeot;287741;-252574.96
+Q;Atlanta;7512.28;jueves 24 de agosto de 2017;Suzuki;121590;-114077.72
+I;Atlanta;19408.88;sábado 10 de junio de 2017;Hyundai;121889;-102480.12
+I;Atlanta;18008.88;jueves 28 de septiembre de 2017;Hyundai;121889;-103880.12
+K;Atlanta;10099.37;sábado 11 de noviembre de 2017;Toyota;509328;-499228.63
+Q;Atlanta;41653.71;miércoles 18 de enero de 2017;Suzuki;121590;-79936.29
+M;Atlanta;20621.13;jueves 10 de agosto de 2017;Mazda;327078;-306456.87
+N;Atlanta;9779.47;martes 16 de mayo de 2017;BMW;366207;-356427.53
+K;Atlanta;21956.64;sábado 29 de julio de 2017;Toyota;509328;-487371.36
+H;Atlanta;660.48;sábado 05 de agosto de 2017;Renault;417019;-416358.52
+F;Atlanta;47354.93;sábado 13 de mayo de 2017;Citroen;361084;-313729.07
+G;Atlanta;48562.62;miércoles 11 de octubre de 2017;Jeep;62985;-14422.38
+B;Atlanta;8109.57;domingo 21 de mayo de 2017;Audi;506811;-498701.43
+N;Atlanta;11292.5;viernes 29 de septiembre de 2017;BMW;366207;-354914.5
+M;Atlanta;23920.06;miércoles 29 de marzo de 2017;Mazda;327078;-303157.94
+C;Atlanta;35852.57;miércoles 13 de septiembre de 2017;Ford;145385;-109532.43
+I;Atlanta;1164.37;viernes 08 de diciembre de 2017;Hyundai;121889;-120724.63
+D;Atlanta;11922.84;domingo 06 de agosto de 2017;Jaguar;384724;-372801.16
+P;Atlanta;41431.91;viernes 15 de septiembre de 2017;Volvo;579877;-538445.09
+C;Atlanta;5895.52;jueves 05 de enero de 2017;Ford;145385;-139489.48
+G;Atlanta;9567.94;viernes 17 de noviembre de 2017;Jeep;62985;-53417.06
+H;Atlanta;24642.96;viernes 17 de noviembre de 2017;Renault;417019;-392376.04
+L;Atlanta;4080.6;domingo 20 de agosto de 2017;Volkswagen;478975;-474894.4
+J;Atlanta;8430.52;jueves 25 de mayo de 2017;Mitsubishi;362567;-354136.48
+Q;Atlanta;29441.83;miércoles 26 de julio de 2017;Suzuki;121590;-92148.17
+P;Atlanta;3486.42;sábado 11 de noviembre de 2017;Volvo;579877;-576390.58
+P;Atlanta;26100.74;viernes 10 de febrero de 2017;Volvo;579877;-553776.26
+K;Atlanta;6686.85;martes 20 de junio de 2017;Toyota;509328;-502641.15
+D;Atlanta;22220.45;domingo 08 de enero de 2017;Jaguar;384724;-362503.55
+E;Atlanta;20817.7;domingo 24 de diciembre de 2017;Kia;526617;-505799.3
+I;Atlanta;30770.52;domingo 12 de febrero de 2017;Hyundai;121889;-91118.48
+A;Atlanta;35328.64;viernes 16 de junio de 2017;Mercedes-Benz;665685;-630356.36
+M;Atlanta;41064.69;jueves 26 de octubre de 2017;Mazda;327078;-286013.31
+D;Atlanta;29417.18;domingo 10 de septiembre de 2017;Jaguar;384724;-355306.82
+K;Atlanta;48912.13;viernes 15 de diciembre de 2017;Toyota;509328;-460415.87
+O;Atlanta;19330;sábado 16 de septiembre de 2017;Fiat;117711;-98381
+P;Atlanta;36389.19;viernes 21 de julio de 2017;Volvo;579877;-543487.81
+K;Atlanta;7889.34;miércoles 08 de noviembre de 2017;Toyota;509328;-501438.66
+C;Atlanta;32963.71;sábado 22 de julio de 2017;Ford;145385;-112421.29
+T;Atlanta;14520.96;sábado 01 de julio de 2017;Isuzu;288473;-273952.04
+H;Atlanta;42881.99;lunes 31 de julio de 2017;Renault;417019;-374137.01
+N;Atlanta;49651.64;viernes 10 de noviembre de 2017;BMW;366207;-316555.36
+I;Atlanta;31580.5;lunes 09 de enero de 2017;Hyundai;121889;-90308.5
+Q;Atlanta;37011.37;miércoles 15 de febrero de 2017;Suzuki;121590;-84578.63
+S;Atlanta;31567.68;lunes 06 de noviembre de 2017;Peugeot;287741;-256173.32
+T;Atlanta;41255.56;lunes 21 de agosto de 2017;Isuzu;288473;-247217.44
+I;Atlanta;28173.01;martes 27 de junio de 2017;Hyundai;121889;-93715.99
+G;Atlanta;6495.39;miércoles 27 de septiembre de 2017;Jeep;62985;-56489.61
+B;Atlanta;30353.2;martes 21 de marzo de 2017;Audi;506811;-476457.8
+I;Atlanta;47687.64;sábado 04 de febrero de 2017;Hyundai;121889;-74201.36
+F;Atlanta;20944.71;martes 15 de agosto de 2017;Citroen;361084;-340139.29
+G;Atlanta;21030.56;sábado 21 de enero de 2017;Jeep;62985;-41954.44
+S;Atlanta;28047.02;lunes 29 de mayo de 2017;Peugeot;287741;-259693.98
+M;Atlanta;26506.26;martes 17 de enero de 2017;Mazda;327078;-300571.74
+D;Atlanta;17553.12;miércoles 24 de mayo de 2017;Jaguar;384724;-367170.88
+M;Atlanta;33195.78;miércoles 22 de noviembre de 2017;Mazda;327078;-293882.22
+L;Atlanta;41132.94;lunes 11 de septiembre de 2017;Volkswagen;478975;-437842.06
+J;Atlanta;22270.43;miércoles 26 de abril de 2017;Mitsubishi;362567;-340296.57
+I;Atlanta;42009.85;lunes 06 de febrero de 2017;Hyundai;121889;-79879.15
+N;Atlanta;28177.89;martes 22 de agosto de 2017;BMW;366207;-338029.11
+O;Atlanta;29677.5;martes 23 de mayo de 2017;Fiat;117711;-88033.5
+K;Atlanta;13556.72;viernes 17 de febrero de 2017;Toyota;509328;-495771.28
+N;Atlanta;28828.04;jueves 31 de agosto de 2017;BMW;366207;-337378.96
+A;Atlanta;41556.17;jueves 27 de abril de 2017;Mercedes-Benz;665685;-624128.83
+R;Atlanta;44829.38;domingo 30 de julio de 2017;Seat;3396;41433.38
+B;Atlanta;44970.16;jueves 02 de marzo de 2017;Audi;506811;-461840.84
+G;Atlanta;30593.32;miércoles 11 de octubre de 2017;Jeep;62985;-32391.68
+D;Atlanta;11875.16;domingo 24 de septiembre de 2017;Jaguar;384724;-372848.84
+A;Atlanta;27681.31;lunes 17 de julio de 2017;Mercedes-Benz;665685;-638003.69
+J;Atlanta;39629.96;viernes 03 de febrero de 2017;Mitsubishi;362567;-322937.04
+S;Atlanta;14363.43;domingo 09 de julio de 2017;Peugeot;287741;-273377.57
+L;Atlanta;45732.48;lunes 02 de enero de 2017;Volkswagen;478975;-433242.52
+T;Atlanta;35988.63;lunes 09 de octubre de 2017;Isuzu;288473;-252484.37
+K;Atlanta;26709.04;lunes 27 de marzo de 2017;Toyota;509328;-482618.96
+H;Atlanta;9083.96;domingo 10 de septiembre de 2017;Renault;417019;-407935.04
+H;Atlanta;42854.03;jueves 19 de octubre de 2017;Renault;417019;-374164.97
+D;Atlanta;47813.51;domingo 05 de febrero de 2017;Jaguar;384724;-336910.49
+R;Atlanta;13422.66;viernes 24 de febrero de 2017;Seat;3396;10026.66
+N;Atlanta;14011.65;jueves 21 de septiembre de 2017;BMW;366207;-352195.35
+T;Atlanta;8431.76;jueves 18 de mayo de 2017;Isuzu;288473;-280041.24
+R;Atlanta;11647.61;lunes 03 de julio de 2017;Seat;3396;8251.61
+M;Atlanta;18336.9;lunes 09 de enero de 2017;Mazda;327078;-308741.1
+E;Atlanta;49079.16;jueves 30 de marzo de 2017;Kia;526617;-477537.84
+O;Atlanta;31391.12;miércoles 08 de marzo de 2017;Fiat;117711;-86319.88
+H;Atlanta;46319.17;martes 02 de mayo de 2017;Renault;417019;-370699.83
+D;Atlanta;30414.64;miércoles 24 de mayo de 2017;Jaguar;384724;-354309.36
+S;Atlanta;19373.82;sábado 07 de octubre de 2017;Peugeot;287741;-268367.18
+M;Atlanta;10958.26;viernes 10 de marzo de 2017;Mazda;327078;-316119.74
+R;Atlanta;13388.43;viernes 17 de marzo de 2017;Seat;3396;9992.43
+R;Atlanta;17678.22;domingo 03 de septiembre de 2017;Seat;3396;14282.22
+A;Atlanta;26309.94;lunes 11 de diciembre de 2017;Mercedes-Benz;665685;-639375.06
+J;Atlanta;48367.29;viernes 18 de agosto de 2017;Mitsubishi;362567;-314199.71
+C;Atlanta;48087.88;jueves 16 de marzo de 2017;Ford;145385;-97297.12
+E;Atlanta;5986.07;miércoles 19 de abril de 2017;Kia;526617;-520630.93
+P;Atlanta;5465.54;sábado 09 de septiembre de 2017;Volvo;579877;-574411.46
+G;Atlanta;33457.84;viernes 22 de septiembre de 2017;Jeep;62985;-29527.16
+F;Atlanta;48178.52;domingo 06 de agosto de 2017;Citroen;361084;-312905.48
+I;Atlanta;42145.18;martes 21 de marzo de 2017;Hyundai;121889;-79743.82
+M;Atlanta;44005.62;martes 05 de diciembre de 2017;Mazda;327078;-283072.38
+N;Atlanta;29063.25;lunes 11 de septiembre de 2017;BMW;366207;-337143.75
+Q;Atlanta;2198.48;domingo 12 de febrero de 2017;Suzuki;121590;-119391.52
+N;Atlanta;39123.68;martes 12 de diciembre de 2017;BMW;366207;-327083.32
+R;Atlanta;9470.44;viernes 10 de febrero de 2017;Seat;3396;6074.44
+R;Atlanta;20670.85;martes 07 de febrero de 2017;Seat;3396;17274.85
+C;Atlanta;33605.32;miércoles 01 de marzo de 2017;Ford;145385;-111779.68
+C;Atlanta;35567.65;domingo 29 de octubre de 2017;Ford;145385;-109817.35
+J;Atlanta;13560.9;jueves 14 de septiembre de 2017;Mitsubishi;362567;-349006.1
+B;Atlanta;15443.07;jueves 22 de junio de 2017;Audi;506811;-491367.93
+T;Atlanta;37172.1;sábado 21 de enero de 2017;Isuzu;288473;-251300.9
+T;Atlanta;34225.09;martes 08 de agosto de 2017;Isuzu;288473;-254247.91
+O;Atlanta;7810.77;jueves 06 de julio de 2017;Fiat;117711;-109900.23
+N;Atlanta;7546.63;sábado 08 de abril de 2017;BMW;366207;-358660.37
+K;Atlanta;20818.26;miércoles 13 de diciembre de 2017;Toyota;509328;-488509.74
+G;Atlanta;42547.31;viernes 05 de mayo de 2017;Jeep;62985;-20437.69
+N;Atlanta;49856.74;miércoles 05 de julio de 2017;BMW;366207;-316350.26
+B;Atlanta;2315.59;sábado 08 de abril de 2017;Audi;506811;-504495.41
+P;Atlanta;4167.85;miércoles 19 de abril de 2017;Volvo;579877;-575709.15
+C;Atlanta;10187.31;sábado 20 de mayo de 2017;Ford;145385;-135197.69
+Q;Atlanta;413.04;miércoles 07 de junio de 2017;Suzuki;121590;-121176.96
+L;Atlanta;2378.3;viernes 14 de julio de 2017;Volkswagen;478975;-476596.7
+L;Atlanta;37484.62;sábado 17 de junio de 2017;Volkswagen;478975;-441490.38
+H;Atlanta;7783.44;miércoles 06 de diciembre de 2017;Renault;417019;-409235.56
+D;Atlanta;31138.41;domingo 03 de diciembre de 2017;Jaguar;384724;-353585.59
+I;Atlanta;37497.36;sábado 22 de abril de 2017;Hyundai;121889;-84391.64
+P;Atlanta;45307.61;domingo 12 de noviembre de 2017;Volvo;579877;-534569.39
+C;Atlanta;8487.08;sábado 16 de septiembre de 2017;Ford;145385;-136897.92
+H;Atlanta;44553.87;lunes 16 de octubre de 2017;Renault;417019;-372465.13
+P;Atlanta;19594.14;jueves 16 de marzo de 2017;Volvo;579877;-560282.86
+I;Atlanta;37293.78;domingo 08 de enero de 2017;Hyundai;121889;-84595.22
+F;Atlanta;11874.28;viernes 24 de noviembre de 2017;Citroen;361084;-349209.72
+T;Atlanta;45831.4;miércoles 25 de octubre de 2017;Isuzu;288473;-242641.6
+O;Atlanta;33270.86;miércoles 27 de diciembre de 2017;Fiat;117711;-84440.14
+C;Atlanta;10492.22;sábado 08 de julio de 2017;Ford;145385;-134892.78
+G;Atlanta;47625.37;domingo 22 de octubre de 2017;Jeep;62985;-15359.63
+C;Atlanta;18676.62;domingo 04 de junio de 2017;Ford;145385;-126708.38
+R;Atlanta;12710.61;sábado 09 de diciembre de 2017;Seat;3396;9314.61
+L;Atlanta;9372.61;miércoles 02 de agosto de 2017;Volkswagen;478975;-469602.39
+H;Atlanta;9520.11;miércoles 29 de marzo de 2017;Renault;417019;-407498.89
+K;Atlanta;47196.69;sábado 09 de diciembre de 2017;Toyota;509328;-462131.31
+Q;Atlanta;20821.55;jueves 20 de abril de 2017;Suzuki;121590;-100768.45
+M;Atlanta;413.8;miércoles 02 de agosto de 2017;Mazda;327078;-326664.2
+K;Atlanta;32285.45;viernes 24 de febrero de 2017;Toyota;509328;-477042.55
+B;Atlanta;29789.56;sábado 05 de agosto de 2017;Audi;506811;-477021.44
+P;Atlanta;2702.69;martes 24 de enero de 2017;Volvo;579877;-577174.31
+S;Atlanta;31263.73;viernes 27 de enero de 2017;Peugeot;287741;-256477.27
+P;Atlanta;13021.47;jueves 16 de febrero de 2017;Volvo;579877;-566855.53
+O;Atlanta;23881.75;domingo 18 de junio de 2017;Fiat;117711;-93829.25
+F;Atlanta;11060.8;sábado 29 de abril de 2017;Citroen;361084;-350023.2
+A;Atlanta;15177.48;lunes 30 de octubre de 2017;Mercedes-Benz;665685;-650507.52
+P;Atlanta;16476.8;viernes 11 de agosto de 2017;Volvo;579877;-563400.2
+C;Atlanta;29181.95;miércoles 18 de enero de 2017;Ford;145385;-116203.05
+O;Atlanta;42839.58;jueves 14 de diciembre de 2017;Fiat;117711;-74871.42
+L;Atlanta;35439.08;sábado 04 de noviembre de 2017;Volkswagen;478975;-443535.92
+Q;Atlanta;14939.54;jueves 08 de junio de 2017;Suzuki;121590;-106650.46
+C;Atlanta;36286.94;martes 11 de julio de 2017;Ford;145385;-109098.06
+M;Atlanta;7904.05;jueves 09 de marzo de 2017;Mazda;327078;-319173.95
+C;Atlanta;26352.88;martes 11 de abril de 2017;Ford;145385;-119032.12
+A;Atlanta;28173.01;martes 10 de enero de 2017;Mercedes-Benz;665685;-637511.99
+B;Atlanta;47615.29;miércoles 12 de abril de 2017;Audi;506811;-459195.71
+U;Atlanta;40112.07;sábado 29 de julio de 2017;Nissan;56659;-16546.93
+B;Atlanta;16022.76;lunes 24 de abril de 2017;Audi;506811;-490788.24
+B;Atlanta;9967.04;martes 13 de junio de 2017;Audi;506811;-496843.96
+L;Atlanta;4541.99;jueves 23 de febrero de 2017;Volkswagen;478975;-474433.01
+B;Atlanta;22348.37;miércoles 04 de octubre de 2017;Audi;506811;-484462.63
+J;Atlanta;18969.06;domingo 02 de julio de 2017;Mitsubishi;362567;-343597.94
+M;Atlanta;19794.41;viernes 12 de mayo de 2017;Mazda;327078;-307283.59
+U;Atlanta;26141.46;domingo 12 de marzo de 2017;Nissan;56659;-30517.54
+A;Atlanta;45149.57;sábado 09 de septiembre de 2017;Mercedes-Benz;665685;-620535.43
+D;Atlanta;25234.94;lunes 05 de junio de 2017;Jaguar;384724;-359489.06
+U;Atlanta;17760.43;miércoles 20 de septiembre de 2017;Nissan;56659;-38898.57
+C;Atlanta;14737.58;miércoles 13 de septiembre de 2017;Ford;145385;-130647.42
+A;Atlanta;23477.31;sábado 18 de febrero de 2017;Mercedes-Benz;665685;-642207.69
+E;Atlanta;35305.11;sábado 23 de diciembre de 2017;Kia;526617;-491311.89
+A;Atlanta;24055.08;miércoles 09 de agosto de 2017;Mercedes-Benz;665685;-641629.92
+P;Atlanta;22158.75;martes 17 de octubre de 2017;Volvo;579877;-557718.25
+R;Atlanta;46850.27;domingo 22 de octubre de 2017;Seat;3396;43454.27
+H;Atlanta;18125.53;martes 18 de abril de 2017;Renault;417019;-398893.47
+I;Atlanta;28496.14;jueves 16 de marzo de 2017;Hyundai;121889;-93392.86
+F;Atlanta;20195.84;martes 05 de septiembre de 2017;Citroen;361084;-340888.16
+O;Atlanta;8113.12;miércoles 14 de junio de 2017;Fiat;117711;-109597.88
+N;Atlanta;23997.82;miércoles 22 de noviembre de 2017;BMW;366207;-342209.18
+N;Atlanta;28611.58;martes 10 de octubre de 2017;BMW;366207;-337595.42
+B;Atlanta;19501.69;miércoles 18 de octubre de 2017;Audi;506811;-487309.31
+S;Atlanta;21592.3;sábado 22 de julio de 2017;Peugeot;287741;-266148.7
+H;Atlanta;16766.22;viernes 04 de agosto de 2017;Renault;417019;-400252.78
+C;Atlanta;2820.73;domingo 14 de mayo de 2017;Ford;145385;-142564.27
+H;Atlanta;45947.9;lunes 30 de enero de 2017;Renault;417019;-371071.1
+G;Atlanta;11069.02;martes 19 de diciembre de 2017;Jeep;62985;-51915.98
+E;Atlanta;42902.61;miércoles 22 de febrero de 2017;Kia;526617;-483714.39
+G;Atlanta;26592.36;lunes 18 de diciembre de 2017;Jeep;62985;-36392.64
+L;Atlanta;1829.05;viernes 21 de abril de 2017;Volkswagen;478975;-477145.95
+L;Atlanta;48479.53;sábado 21 de enero de 2017;Volkswagen;478975;-430495.47
+O;Atlanta;11158.23;martes 09 de mayo de 2017;Fiat;117711;-106552.77
+C;Atlanta;32678.5;jueves 12 de octubre de 2017;Ford;145385;-112706.5
+M;Atlanta;40914.4;lunes 13 de febrero de 2017;Mazda;327078;-286163.6
+C;Atlanta;25959.53;martes 06 de junio de 2017;Ford;145385;-119425.47
+S;Atlanta;9976.61;viernes 14 de julio de 2017;Peugeot;287741;-277764.39
+T;Atlanta;48477.62;lunes 13 de marzo de 2017;Isuzu;288473;-239995.38
+R;Atlanta;13483.05;jueves 14 de diciembre de 2017;Seat;3396;10087.05
+J;Atlanta;36783.15;martes 07 de marzo de 2017;Mitsubishi;362567;-325783.85
+A;Atlanta;43740.32;jueves 09 de marzo de 2017;Mercedes-Benz;665685;-621944.68
+D;Atlanta;45581.81;viernes 20 de enero de 2017;Jaguar;384724;-339142.19
+N;Atlanta;27269.96;miércoles 17 de mayo de 2017;BMW;366207;-338937.04
+P;Atlanta;37100.89;viernes 11 de agosto de 2017;Volvo;579877;-542776.11
+N;Atlanta;42105.91;lunes 23 de enero de 2017;BMW;366207;-324101.09
+E;Atlanta;26523.58;domingo 14 de mayo de 2017;Kia;526617;-500093.42
+U;Atlanta;8495.32;domingo 03 de septiembre de 2017;Nissan;56659;-48163.68
+K;Atlanta;26368.76;miércoles 14 de junio de 2017;Toyota;509328;-482959.24
+D;Atlanta;22927.36;jueves 29 de junio de 2017;Jaguar;384724;-361796.64
+J;Baltimore;48604.71;lunes 13 de noviembre de 2017;Mitsubishi;362567;-313962.29
+J;Baltimore;7388.32;jueves 22 de junio de 2017;Mitsubishi;362567;-355178.68
+M;Baltimore;1554.64;lunes 11 de septiembre de 2017;Mazda;327078;-325523.36
+E;Baltimore;8928.38;martes 11 de abril de 2017;Kia;526617;-517688.62
+D;Baltimore;11660.7;miércoles 12 de julio de 2017;Jaguar;384724;-373063.3
+B;Baltimore;2738.04;lunes 26 de junio de 2017;Audi;506811;-504072.96
+G;Baltimore;43414.16;lunes 02 de octubre de 2017;Jeep;62985;-19570.84
+A;Baltimore;25333.96;lunes 29 de mayo de 2017;Mercedes-Benz;665685;-640351.04
+K;Baltimore;644.67;martes 22 de agosto de 2017;Toyota;509328;-508683.33
+Q;Baltimore;13205;jueves 05 de octubre de 2017;Suzuki;121590;-108385
+J;Baltimore;1613.03;sábado 14 de octubre de 2017;Mitsubishi;362567;-360953.97
+S;Baltimore;46813.73;lunes 25 de septiembre de 2017;Peugeot;287741;-240927.27
+T;Baltimore;17779.63;lunes 15 de mayo de 2017;Isuzu;288473;-270693.37
+I;Baltimore;39472.03;viernes 20 de enero de 2017;Hyundai;121889;-82416.97
+D;Baltimore;49033.14;martes 07 de noviembre de 2017;Jaguar;384724;-335690.86
+Q;Baltimore;23785.04;martes 18 de abril de 2017;Suzuki;121590;-97804.96
+O;Baltimore;10140.39;jueves 21 de septiembre de 2017;Fiat;117711;-107570.61
+H;Baltimore;41689.57;domingo 09 de julio de 2017;Renault;417019;-375329.43
+T;Baltimore;27549.42;viernes 23 de junio de 2017;Isuzu;288473;-260923.58
+O;Baltimore;12753.66;viernes 17 de febrero de 2017;Fiat;117711;-104957.34
+S;Baltimore;5854.31;martes 14 de marzo de 2017;Peugeot;287741;-281886.69
+B;Baltimore;36959.77;miércoles 13 de diciembre de 2017;Audi;506811;-469851.23
+R;Baltimore;3280.56;martes 17 de octubre de 2017;Seat;3396;-115.44
+R;Baltimore;9882.84;viernes 09 de junio de 2017;Seat;3396;6486.84
+F;Baltimore;35387.86;sábado 18 de febrero de 2017;Citroen;361084;-325696.14
+P;Baltimore;43781.79;martes 19 de diciembre de 2017;Volvo;579877;-536095.21
+F;Baltimore;6809.9;martes 15 de agosto de 2017;Citroen;361084;-354274.1
+N;Baltimore;3048.09;jueves 18 de mayo de 2017;BMW;366207;-363158.91
+K;Baltimore;26828.65;domingo 09 de julio de 2017;Toyota;509328;-482499.35
+K;Baltimore;27706.38;jueves 16 de noviembre de 2017;Toyota;509328;-481621.62
+E;Baltimore;43264.7;jueves 02 de noviembre de 2017;Kia;526617;-483352.3
+J;Baltimore;5640.51;jueves 23 de febrero de 2017;Mitsubishi;362567;-356926.49
+E;Baltimore;41028.23;martes 24 de octubre de 2017;Kia;526617;-485588.77
+M;Baltimore;35938.76;domingo 21 de mayo de 2017;Mazda;327078;-291139.24
+T;Baltimore;29864.42;sábado 01 de abril de 2017;Isuzu;288473;-258608.58
+G;Baltimore;33195.3;domingo 18 de junio de 2017;Jeep;62985;-29789.7
+Q;Baltimore;21741.76;domingo 30 de abril de 2017;Suzuki;121590;-99848.24
+O;Baltimore;29585.39;viernes 27 de enero de 2017;Fiat;117711;-88125.61
+L;Baltimore;3167.81;miércoles 06 de septiembre de 2017;Volkswagen;478975;-475807.19
+I;Baltimore;37217.42;jueves 27 de abril de 2017;Hyundai;121889;-84671.58
+L;Baltimore;33041.34;miércoles 01 de febrero de 2017;Volkswagen;478975;-445933.66
+K;Baltimore;44263.09;viernes 10 de febrero de 2017;Toyota;509328;-465064.91
+R;Baltimore;8859.86;jueves 19 de octubre de 2017;Seat;3396;5463.86
+N;Baltimore;12083.62;domingo 28 de mayo de 2017;BMW;366207;-354123.38
+C;Baltimore;21415.19;viernes 10 de febrero de 2017;Ford;145385;-123969.81
+S;Baltimore;22885.44;jueves 23 de noviembre de 2017;Peugeot;287741;-264855.56
+P;Baltimore;29017;sábado 25 de marzo de 2017;Volvo;579877;-550860
+I;Baltimore;14140.61;lunes 22 de mayo de 2017;Hyundai;121889;-107748.39
+P;Baltimore;47125.82;miércoles 02 de agosto de 2017;Volvo;579877;-532751.18
+E;Baltimore;11069.26;miércoles 05 de julio de 2017;Kia;526617;-515547.74
+D;Baltimore;43420.2;sábado 21 de enero de 2017;Jaguar;384724;-341303.8
+T;Baltimore;24446.12;martes 02 de mayo de 2017;Isuzu;288473;-264026.88
+O;Baltimore;48774.81;viernes 20 de octubre de 2017;Fiat;117711;-68936.19
+A;Baltimore;17488.72;domingo 16 de julio de 2017;Mercedes-Benz;665685;-648196.28
+M;Baltimore;6627.41;miércoles 12 de julio de 2017;Mazda;327078;-320450.59
+R;Baltimore;46178.37;sábado 22 de julio de 2017;Seat;3396;42782.37
+N;Baltimore;17227.62;viernes 07 de julio de 2017;BMW;366207;-348979.38
+J;Baltimore;3975.65;viernes 17 de marzo de 2017;Mitsubishi;362567;-358591.35
+B;Baltimore;43989.35;domingo 03 de diciembre de 2017;Audi;506811;-462821.65
+O;Baltimore;37913.16;lunes 20 de marzo de 2017;Fiat;117711;-79797.84
+N;Baltimore;41289.4;miércoles 01 de febrero de 2017;BMW;366207;-324917.6
+M;Baltimore;28123.61;lunes 18 de septiembre de 2017;Mazda;327078;-298954.39
+G;Baltimore;42509.85;viernes 02 de junio de 2017;Jeep;62985;-20475.15
+C;Baltimore;27194.75;viernes 25 de agosto de 2017;Ford;145385;-118190.25
+P;Baltimore;39123.45;martes 17 de enero de 2017;Volvo;579877;-540753.55
+D;Baltimore;36776.29;viernes 28 de julio de 2017;Jaguar;384724;-347947.71
+F;Baltimore;3051.71;sábado 28 de enero de 2017;Citroen;361084;-358032.29
+B;Baltimore;37217.99;martes 14 de noviembre de 2017;Audi;506811;-469593.01
+S;Baltimore;31691.06;viernes 16 de junio de 2017;Peugeot;287741;-256049.94
+P;Baltimore;38486.98;domingo 30 de abril de 2017;Volvo;579877;-541390.02
+E;Baltimore;24422.6;miércoles 06 de septiembre de 2017;Kia;526617;-502194.4
+C;Baltimore;6214.67;domingo 14 de mayo de 2017;Ford;145385;-139170.33
+N;Baltimore;39238.12;domingo 26 de noviembre de 2017;BMW;366207;-326968.88
+B;Baltimore;43256.71;miércoles 04 de octubre de 2017;Audi;506811;-463554.29
+G;Baltimore;46025.93;viernes 07 de abril de 2017;Jeep;62985;-16959.07
+D;Baltimore;32108.67;sábado 14 de octubre de 2017;Jaguar;384724;-352615.33
+J;Baltimore;44998.63;sábado 17 de junio de 2017;Mitsubishi;362567;-317568.37
+Q;Baltimore;9085.34;lunes 20 de noviembre de 2017;Suzuki;121590;-112504.66
+F;Baltimore;41888.94;jueves 28 de diciembre de 2017;Citroen;361084;-319195.06
+I;Baltimore;47208.55;viernes 07 de julio de 2017;Hyundai;121889;-74680.45
+K;Baltimore;25190.22;lunes 11 de diciembre de 2017;Toyota;509328;-484137.78
+F;Baltimore;1802.68;miércoles 14 de junio de 2017;Citroen;361084;-359281.32
+O;Baltimore;2409.07;miércoles 27 de diciembre de 2017;Fiat;117711;-115301.93
+K;Baltimore;40919.01;martes 22 de agosto de 2017;Toyota;509328;-468408.99
+C;Baltimore;48213.66;domingo 23 de julio de 2017;Ford;145385;-97171.34
+G;Baltimore;27727.42;lunes 30 de enero de 2017;Jeep;62985;-35257.58
+F;Baltimore;230.71;domingo 30 de julio de 2017;Citroen;361084;-360853.29
+I;Baltimore;49057.31;miércoles 28 de junio de 2017;Hyundai;121889;-72831.69
+A;Baltimore;5869.37;viernes 17 de marzo de 2017;Mercedes-Benz;665685;-659815.63
+D;Baltimore;30286.17;sábado 08 de julio de 2017;Jaguar;384724;-354437.83
+C;Baltimore;48570.14;martes 14 de marzo de 2017;Ford;145385;-96814.86
+G;Baltimore;33970.31;sábado 11 de noviembre de 2017;Jeep;62985;-29014.69
+T;Baltimore;34337.22;sábado 07 de enero de 2017;Isuzu;288473;-254135.78
+H;Baltimore;37010.14;lunes 06 de noviembre de 2017;Renault;417019;-380008.86
+I;Baltimore;40163.52;sábado 23 de diciembre de 2017;Hyundai;121889;-81725.48
+K;Baltimore;48886.54;lunes 16 de octubre de 2017;Toyota;509328;-460441.46
+Q;Baltimore;41965.06;miércoles 30 de agosto de 2017;Suzuki;121590;-79624.94
+D;Baltimore;12162.65;jueves 13 de julio de 2017;Jaguar;384724;-372561.35
+N;Baltimore;41755.52;viernes 14 de abril de 2017;BMW;366207;-324451.48
+Q;Baltimore;34204.31;jueves 18 de mayo de 2017;Suzuki;121590;-87385.69
+H;Baltimore;13353.3;sábado 02 de septiembre de 2017;Renault;417019;-403665.7
+P;Baltimore;3542.17;domingo 09 de julio de 2017;Volvo;579877;-576334.83
+Q;Baltimore;22008.45;domingo 22 de enero de 2017;Suzuki;121590;-99581.55
+L;Baltimore;42806.1;domingo 05 de noviembre de 2017;Volkswagen;478975;-436168.9
+A;Baltimore;13983.91;jueves 01 de junio de 2017;Mercedes-Benz;665685;-651701.09
+T;Baltimore;8137.25;jueves 19 de enero de 2017;Isuzu;288473;-280335.75
+T;Baltimore;14922.8;lunes 11 de septiembre de 2017;Isuzu;288473;-273550.2
+C;Baltimore;35992.51;lunes 06 de marzo de 2017;Ford;145385;-109392.49
+G;Baltimore;2610.05;lunes 21 de agosto de 2017;Jeep;62985;-60374.95
+G;Baltimore;2980.42;viernes 03 de noviembre de 2017;Jeep;62985;-60004.58
+A;Baltimore;9995.38;viernes 03 de febrero de 2017;Mercedes-Benz;665685;-655689.62
+G;Baltimore;14651.09;viernes 29 de septiembre de 2017;Jeep;62985;-48333.91
+R;Baltimore;7808.53;martes 24 de enero de 2017;Seat;3396;4412.53
+A;Baltimore;23530.2;viernes 14 de abril de 2017;Mercedes-Benz;665685;-642154.8
+B;Baltimore;45269.18;martes 14 de marzo de 2017;Audi;506811;-461541.82
+F;Baltimore;16430.14;martes 21 de noviembre de 2017;Citroen;361084;-344653.86
+J;Baltimore;42599.65;sábado 27 de mayo de 2017;Mitsubishi;362567;-319967.35
+T;Baltimore;28471.58;viernes 29 de diciembre de 2017;Isuzu;288473;-260001.42
+E;Baltimore;38619;jueves 16 de marzo de 2017;Kia;526617;-487998
+R;Baltimore;10714.8;lunes 23 de octubre de 2017;Seat;3396;7318.8
+S;Baltimore;14869.75;sábado 04 de noviembre de 2017;Peugeot;287741;-272871.25
+A;Baltimore;39485.6;miércoles 13 de septiembre de 2017;Mercedes-Benz;665685;-626199.4
+O;Baltimore;36879.82;sábado 06 de mayo de 2017;Fiat;117711;-80831.18
+F;Baltimore;42710.37;domingo 19 de febrero de 2017;Citroen;361084;-318373.63
+Q;Baltimore;11866.02;jueves 02 de febrero de 2017;Suzuki;121590;-109723.98
+T;Baltimore;1719.68;miércoles 05 de abril de 2017;Isuzu;288473;-286753.32
+M;Baltimore;12815.28;martes 11 de abril de 2017;Mazda;327078;-314262.72
+E;Baltimore;27184.3;viernes 24 de noviembre de 2017;Kia;526617;-499432.7
+N;Baltimore;48534.94;viernes 19 de mayo de 2017;BMW;366207;-317672.06
+F;Baltimore;47926.15;miércoles 11 de enero de 2017;Citroen;361084;-313157.85
+L;Baltimore;47482.94;lunes 20 de febrero de 2017;Volkswagen;478975;-431492.06
+S;Baltimore;49801.03;sábado 02 de septiembre de 2017;Peugeot;287741;-237939.97
+E;Baltimore;14863.54;viernes 03 de marzo de 2017;Kia;526617;-511753.46
+O;Baltimore;26560.85;lunes 22 de mayo de 2017;Fiat;117711;-91150.15
+G;Baltimore;40258.6;jueves 27 de julio de 2017;Jeep;62985;-22726.4
+R;Baltimore;32088.14;lunes 06 de noviembre de 2017;Seat;3396;28692.14
+T;Baltimore;21010.98;jueves 25 de mayo de 2017;Isuzu;288473;-267462.02
+I;Baltimore;47453.64;miércoles 01 de marzo de 2017;Hyundai;121889;-74435.36
+A;Baltimore;35966.54;miércoles 22 de noviembre de 2017;Mercedes-Benz;665685;-629718.46
+D;Baltimore;39569.37;sábado 06 de mayo de 2017;Jaguar;384724;-345154.63
+N;Baltimore;30837.18;viernes 29 de septiembre de 2017;BMW;366207;-335369.82
+D;Baltimore;44879.58;jueves 09 de noviembre de 2017;Jaguar;384724;-339844.42
+L;Baltimore;18355.91;lunes 27 de marzo de 2017;Volkswagen;478975;-460619.09
+N;Baltimore;21315.31;miércoles 04 de enero de 2017;BMW;366207;-344891.69
+R;Baltimore;47013.34;miércoles 22 de noviembre de 2017;Seat;3396;43617.34
+N;Baltimore;12767.83;martes 17 de enero de 2017;BMW;366207;-353439.17
+R;Baltimore;29713.65;martes 01 de agosto de 2017;Seat;3396;26317.65
+N;Baltimore;39736.04;martes 25 de abril de 2017;BMW;366207;-326470.96
+K;Baltimore;28170.26;sábado 18 de marzo de 2017;Toyota;509328;-481157.74
+O;Baltimore;33379.65;miércoles 20 de septiembre de 2017;Fiat;117711;-84331.35
+D;Baltimore;41042.39;jueves 28 de septiembre de 2017;Jaguar;384724;-343681.61
+S;Baltimore;16037.59;jueves 30 de marzo de 2017;Peugeot;287741;-271703.41
+I;Baltimore;31546.99;martes 14 de marzo de 2017;Hyundai;121889;-90342.01
+L;Baltimore;44479.44;sábado 04 de marzo de 2017;Volkswagen;478975;-434495.56
+B;Baltimore;5538.88;viernes 17 de marzo de 2017;Audi;506811;-501272.12
+A;Baltimore;26609.46;miércoles 29 de noviembre de 2017;Mercedes-Benz;665685;-639075.54
+S;Baltimore;20403.12;sábado 27 de mayo de 2017;Peugeot;287741;-267337.88
+J;Baltimore;31732.76;martes 21 de febrero de 2017;Mitsubishi;362567;-330834.24
+J;Baltimore;47895.27;martes 09 de mayo de 2017;Mitsubishi;362567;-314671.73
+L;Baltimore;27689.08;jueves 16 de marzo de 2017;Volkswagen;478975;-451285.92
+E;Baltimore;16458.57;miércoles 05 de abril de 2017;Kia;526617;-510158.43
+N;Baltimore;9693.44;lunes 04 de septiembre de 2017;BMW;366207;-356513.56
+E;Baltimore;28223.89;martes 28 de marzo de 2017;Kia;526617;-498393.11
+B;Baltimore;9096.85;domingo 07 de mayo de 2017;Audi;506811;-497714.15
+A;Baltimore;41660.32;lunes 02 de enero de 2017;Mercedes-Benz;665685;-624024.68
+O;Baltimore;5905.65;miércoles 18 de octubre de 2017;Fiat;117711;-111805.35
+D;Baltimore;48645.35;lunes 06 de noviembre de 2017;Jaguar;384724;-336078.65
+F;Baltimore;7866.52;martes 08 de agosto de 2017;Citroen;361084;-353217.48
+H;Baltimore;7635.24;viernes 29 de diciembre de 2017;Renault;417019;-409383.76
+M;Baltimore;44267.4;lunes 23 de enero de 2017;Mazda;327078;-282810.6
+E;Baltimore;8919;viernes 14 de abril de 2017;Kia;526617;-517698
+D;Baltimore;1582.36;martes 18 de abril de 2017;Jaguar;384724;-383141.64
+A;Baltimore;15674.65;viernes 04 de agosto de 2017;Mercedes-Benz;665685;-650010.35
+E;Baltimore;46528.85;jueves 16 de febrero de 2017;Kia;526617;-480088.15
+R;Baltimore;37723.74;martes 07 de marzo de 2017;Seat;3396;34327.74
+U;Baltimore;17553.37;domingo 07 de mayo de 2017;Nissan;56659;-39105.63
+T;Baltimore;32414.77;miércoles 25 de octubre de 2017;Isuzu;288473;-256058.23
+C;Baltimore;4283.76;miércoles 12 de julio de 2017;Ford;145385;-141101.24
+P;Baltimore;23348.73;jueves 13 de julio de 2017;Volvo;579877;-556528.27
+R;Baltimore;19499.83;jueves 08 de junio de 2017;Seat;3396;16103.83
+D;Baltimore;22286.05;domingo 14 de mayo de 2017;Jaguar;384724;-362437.95
+E;Baltimore;14912.01;viernes 08 de septiembre de 2017;Kia;526617;-511704.99
+T;Baltimore;28396.85;lunes 30 de enero de 2017;Isuzu;288473;-260076.15
+K;Baltimore;28199.69;sábado 11 de marzo de 2017;Toyota;509328;-481128.31
+T;Baltimore;31588.46;domingo 15 de octubre de 2017;Isuzu;288473;-256884.54
+T;Baltimore;48422.16;viernes 02 de junio de 2017;Isuzu;288473;-240050.84
+G;Baltimore;23568.01;miércoles 04 de octubre de 2017;Jeep;62985;-39416.99
+Q;Baltimore;10909.5;viernes 16 de junio de 2017;Suzuki;121590;-110680.5
+S;Baltimore;39758.47;lunes 29 de mayo de 2017;Peugeot;287741;-247982.53
+E;Baltimore;17573.38;jueves 21 de diciembre de 2017;Kia;526617;-509043.62
+N;Baltimore;4531.09;sábado 12 de agosto de 2017;BMW;366207;-361675.91
+P;Baltimore;18871.83;miércoles 16 de agosto de 2017;Volvo;579877;-561005.17
+H;Baltimore;47396.12;miércoles 01 de febrero de 2017;Renault;417019;-369622.88
+S;Baltimore;16061.18;martes 18 de julio de 2017;Peugeot;287741;-271679.82
+G;Baltimore;20209.67;jueves 19 de octubre de 2017;Jeep;62985;-42775.33
+T;Baltimore;46478.26;miércoles 10 de mayo de 2017;Isuzu;288473;-241994.74
+O;Baltimore;26512.21;miércoles 25 de enero de 2017;Fiat;117711;-91198.79
+J;Baltimore;39590.99;lunes 12 de junio de 2017;Mitsubishi;362567;-322976.01
+J;Baltimore;43453.3;sábado 04 de noviembre de 2017;Mitsubishi;362567;-319113.7
+R;Baltimore;16985.74;lunes 11 de septiembre de 2017;Seat;3396;13589.74
+U;Baltimore;13287.2;lunes 06 de marzo de 2017;Nissan;56659;-43371.8
+F;Baltimore;41547.92;domingo 26 de marzo de 2017;Citroen;361084;-319536.08
+H;Baltimore;1134.9;domingo 14 de mayo de 2017;Renault;417019;-415884.1
+N;Baltimore;18947.97;miércoles 27 de septiembre de 2017;BMW;366207;-347259.03
+F;Baltimore;5209.49;domingo 17 de diciembre de 2017;Citroen;361084;-355874.51
+G;Baltimore;10994.07;viernes 13 de enero de 2017;Jeep;62985;-51990.93
+P;Baltimore;25127.46;martes 03 de octubre de 2017;Volvo;579877;-554749.54
+E;Baltimore;35912.7;martes 20 de junio de 2017;Kia;526617;-490704.3
+E;Baltimore;49493.39;lunes 18 de diciembre de 2017;Kia;526617;-477123.61
+U;Baltimore;49628.75;domingo 18 de junio de 2017;Nissan;56659;-7030.25
+F;Baltimore;41019.35;sábado 16 de septiembre de 2017;Citroen;361084;-320064.65
+K;Baltimore;28997.2;sábado 18 de noviembre de 2017;Toyota;509328;-480330.8
+C;Baltimore;45007.07;miércoles 19 de julio de 2017;Ford;145385;-100377.93
+T;Baltimore;37954.35;domingo 17 de septiembre de 2017;Isuzu;288473;-250518.65
+K;Baltimore;10662.79;viernes 25 de agosto de 2017;Toyota;509328;-498665.21
+U;Baltimore;34000.05;martes 10 de enero de 2017;Nissan;56659;-22658.95
+A;Baltimore;1628.35;sábado 21 de octubre de 2017;Mercedes-Benz;665685;-664056.65
+P;Baltimore;28415.89;lunes 09 de enero de 2017;Volvo;579877;-551461.11
+T;Baltimore;44586.17;lunes 13 de noviembre de 2017;Isuzu;288473;-243886.83
+J;Baltimore;10851.4;domingo 02 de julio de 2017;Mitsubishi;362567;-351715.6
+S;Baltimore;29741.38;lunes 26 de junio de 2017;Peugeot;287741;-257999.62
+B;Baltimore;37457.09;miércoles 19 de abril de 2017;Audi;506811;-469353.91
+C;Baltimore;37472.67;jueves 19 de enero de 2017;Ford;145385;-107912.33
+R;Baltimore;18882.3;jueves 20 de julio de 2017;Seat;3396;15486.3
+K;Baltimore;18313.78;martes 17 de enero de 2017;Toyota;509328;-491014.22
+D;Baltimore;33807.72;lunes 16 de octubre de 2017;Jaguar;384724;-350916.28
+J;Baltimore;22730.25;domingo 08 de enero de 2017;Mitsubishi;362567;-339836.75
+A;Baltimore;46210.04;viernes 17 de noviembre de 2017;Mercedes-Benz;665685;-619474.96
+P;Baltimore;37980.99;jueves 23 de noviembre de 2017;Volvo;579877;-541896.01
+J;Baltimore;6931.4;viernes 28 de abril de 2017;Mitsubishi;362567;-355635.6
+M;Baltimore;42820.16;lunes 23 de enero de 2017;Mazda;327078;-284257.84
+K;Baltimore;32740.99;jueves 23 de marzo de 2017;Toyota;509328;-476587.01
+B;Baltimore;42350.15;martes 05 de septiembre de 2017;Audi;506811;-464460.85
+G;Baltimore;35575.99;lunes 20 de noviembre de 2017;Jeep;62985;-27409.01
+U;Baltimore;21670.03;lunes 04 de septiembre de 2017;Nissan;56659;-34988.97
+E;Baltimore;28533.8;lunes 24 de julio de 2017;Kia;526617;-498083.2
+J;Baltimore;41084.74;domingo 12 de febrero de 2017;Mitsubishi;362567;-321482.26
+M;Detroit;12151.77;miércoles 01 de noviembre de 2017;Mazda;327078;-314926.23
+A;Detroit;47366.86;viernes 24 de febrero de 2017;Mercedes-Benz;665685;-618318.14
+O;Detroit;39782.82;miércoles 05 de abril de 2017;Fiat;117711;-77928.18
+D;Detroit;26984.72;jueves 25 de mayo de 2017;Jaguar;384724;-357739.28
+C;Detroit;42581.83;viernes 07 de julio de 2017;Ford;145385;-102803.17
+H;Detroit;44417.98;miércoles 27 de septiembre de 2017;Renault;417019;-372601.02
+F;Detroit;44999.39;domingo 26 de marzo de 2017;Citroen;361084;-316084.61
+Q;Detroit;45051.89;sábado 17 de junio de 2017;Suzuki;121590;-76538.11
+O;Detroit;29638.94;sábado 12 de agosto de 2017;Fiat;117711;-88072.06
+H;Detroit;43955.77;lunes 04 de diciembre de 2017;Renault;417019;-373063.23
+B;Detroit;860.19;miércoles 30 de agosto de 2017;Audi;506811;-505950.81
+R;Detroit;5561.77;martes 26 de diciembre de 2017;Seat;3396;2165.77
+G;Detroit;26563.94;martes 16 de mayo de 2017;Jeep;62985;-36421.06
+E;Detroit;42035.77;miércoles 09 de agosto de 2017;Kia;526617;-484581.23
+Q;Detroit;11932.01;domingo 08 de enero de 2017;Suzuki;121590;-109657.99
+T;Detroit;16111.09;sábado 28 de octubre de 2017;Isuzu;288473;-272361.91
+H;Detroit;20646.37;jueves 02 de noviembre de 2017;Renault;417019;-396372.63
+L;Detroit;12207.69;domingo 05 de marzo de 2017;Volkswagen;478975;-466767.31
+S;Detroit;307.2;martes 21 de febrero de 2017;Peugeot;287741;-287433.8
+B;Detroit;19638.02;jueves 22 de junio de 2017;Audi;506811;-487172.98
+L;Detroit;22575.63;sábado 07 de enero de 2017;Volkswagen;478975;-456399.37
+U;Detroit;39224.37;jueves 23 de marzo de 2017;Nissan;56659;-17434.63
+S;Detroit;33949.8;sábado 09 de septiembre de 2017;Peugeot;287741;-253791.2
+N;Detroit;38306.04;jueves 14 de septiembre de 2017;BMW;366207;-327900.96
+S;Detroit;8220.9;martes 14 de febrero de 2017;Peugeot;287741;-279520.1
+L;Detroit;15718.7;domingo 15 de enero de 2017;Volkswagen;478975;-463256.3
+K;Detroit;31499.45;viernes 04 de agosto de 2017;Toyota;509328;-477828.55
+R;Detroit;18032.74;viernes 14 de abril de 2017;Seat;3396;14636.74
+S;Detroit;44658.12;sábado 08 de julio de 2017;Peugeot;287741;-243082.88
+N;Detroit;9739.18;lunes 10 de julio de 2017;BMW;366207;-356467.82
+I;Detroit;31379.93;sábado 25 de marzo de 2017;Hyundai;121889;-90509.07
+G;Detroit;21228.2;miércoles 01 de marzo de 2017;Jeep;62985;-41756.8
+G;Detroit;6679.01;miércoles 07 de junio de 2017;Jeep;62985;-56305.99
+T;Detroit;39619.08;martes 23 de mayo de 2017;Isuzu;288473;-248853.92
+Q;Detroit;39776.31;jueves 06 de abril de 2017;Suzuki;121590;-81813.69
+Q;Detroit;22375.96;sábado 11 de marzo de 2017;Suzuki;121590;-99214.04
+Q;Detroit;17150.65;miércoles 17 de mayo de 2017;Suzuki;121590;-104439.35
+J;Detroit;5338.74;domingo 10 de diciembre de 2017;Mitsubishi;362567;-357228.26
+M;Detroit;34919.67;martes 09 de mayo de 2017;Mazda;327078;-292158.33
+R;Detroit;5195.16;sábado 02 de diciembre de 2017;Seat;3396;1799.16
+M;Detroit;39622.29;jueves 11 de mayo de 2017;Mazda;327078;-287455.71
+O;Detroit;6117.69;jueves 10 de agosto de 2017;Fiat;117711;-111593.31
+L;Detroit;464.1;martes 16 de mayo de 2017;Volkswagen;478975;-478510.9
+U;Detroit;14518.14;domingo 08 de octubre de 2017;Nissan;56659;-42140.86
+U;Detroit;49779.54;martes 26 de diciembre de 2017;Nissan;56659;-6879.46
+B;Detroit;28524.99;jueves 05 de octubre de 2017;Audi;506811;-478286.01
+J;Detroit;824.24;miércoles 18 de octubre de 2017;Mitsubishi;362567;-361742.76
+M;Detroit;43955.16;viernes 27 de enero de 2017;Mazda;327078;-283122.84
+H;Detroit;28205.49;sábado 25 de noviembre de 2017;Renault;417019;-388813.51
+N;Detroit;44455.24;domingo 19 de febrero de 2017;BMW;366207;-321751.76
+A;Detroit;22082.23;lunes 20 de noviembre de 2017;Mercedes-Benz;665685;-643602.77
+R;Detroit;27716.49;domingo 21 de mayo de 2017;Seat;3396;24320.49
+F;Detroit;13574.32;jueves 05 de octubre de 2017;Citroen;361084;-347509.68
+N;Detroit;35349.83;miércoles 10 de mayo de 2017;BMW;366207;-330857.17
+B;Detroit;40245.35;viernes 15 de diciembre de 2017;Audi;506811;-466565.65
+O;Detroit;15786.23;lunes 02 de octubre de 2017;Fiat;117711;-101924.77
+D;Detroit;35784.41;viernes 26 de mayo de 2017;Jaguar;384724;-348939.59
+N;Detroit;26981.25;martes 04 de abril de 2017;BMW;366207;-339225.75
+C;Detroit;36673.02;jueves 09 de noviembre de 2017;Ford;145385;-108711.98
+J;Detroit;43861.21;viernes 27 de octubre de 2017;Mitsubishi;362567;-318705.79
+K;Detroit;43247.09;martes 21 de febrero de 2017;Toyota;509328;-466080.91
+J;Detroit;7150.88;viernes 17 de febrero de 2017;Mitsubishi;362567;-355416.12
+T;Detroit;30600.23;domingo 09 de julio de 2017;Isuzu;288473;-257872.77
+M;Detroit;12179.57;miércoles 29 de marzo de 2017;Mazda;327078;-314898.43
+U;Detroit;1630.68;jueves 09 de noviembre de 2017;Nissan;56659;-55028.32
+D;Detroit;43241.44;viernes 27 de octubre de 2017;Jaguar;384724;-341482.56
+Q;Detroit;47797.53;jueves 24 de agosto de 2017;Suzuki;121590;-73792.47
+J;Detroit;22671.66;viernes 28 de julio de 2017;Mitsubishi;362567;-339895.34
+Q;Detroit;37486.78;lunes 09 de octubre de 2017;Suzuki;121590;-84103.22
+O;Detroit;3065.61;miércoles 19 de julio de 2017;Fiat;117711;-114645.39
+B;Detroit;4901.26;viernes 09 de junio de 2017;Audi;506811;-501909.74
+U;Detroit;33782.79;domingo 24 de septiembre de 2017;Nissan;56659;-22876.21
+F;Detroit;48338.17;martes 12 de diciembre de 2017;Citroen;361084;-312745.83
+Q;Detroit;14592.76;jueves 11 de mayo de 2017;Suzuki;121590;-106997.24
+G;Detroit;30867.18;domingo 24 de septiembre de 2017;Jeep;62985;-32117.82
+M;Detroit;40236.4;sábado 14 de octubre de 2017;Mazda;327078;-286841.6
+P;Detroit;12093.72;sábado 18 de marzo de 2017;Volvo;579877;-567783.28
+B;Detroit;41224.61;sábado 23 de septiembre de 2017;Audi;506811;-465586.39
+T;Detroit;40862.66;sábado 16 de septiembre de 2017;Isuzu;288473;-247610.34
+F;Detroit;28846.14;jueves 30 de noviembre de 2017;Citroen;361084;-332237.86
+R;Detroit;3951.17;viernes 13 de octubre de 2017;Seat;3396;555.17
+M;Detroit;5245;sábado 04 de noviembre de 2017;Mazda;327078;-321833
+U;Detroit;20963.44;sábado 04 de febrero de 2017;Nissan;56659;-35695.56
+L;Detroit;26619.22;lunes 30 de enero de 2017;Volkswagen;478975;-452355.78
+P;Detroit;32758.47;jueves 16 de febrero de 2017;Volvo;579877;-547118.53
+R;Detroit;49124.75;lunes 25 de septiembre de 2017;Seat;3396;45728.75
+F;Detroit;4577.63;miércoles 12 de abril de 2017;Citroen;361084;-356506.37
+S;Detroit;37236.22;domingo 24 de diciembre de 2017;Peugeot;287741;-250504.78
+T;Detroit;5949.44;sábado 13 de mayo de 2017;Isuzu;288473;-282523.56
+I;Detroit;26967.12;lunes 31 de julio de 2017;Hyundai;121889;-94921.88
+R;Detroit;1264.02;viernes 13 de octubre de 2017;Seat;3396;-2131.98
+R;Detroit;49374.81;jueves 02 de marzo de 2017;Seat;3396;45978.81
+G;Detroit;7327.64;miércoles 06 de diciembre de 2017;Jeep;62985;-55657.36
+C;Detroit;36418.54;miércoles 28 de junio de 2017;Ford;145385;-108966.46
+I;Detroit;12831.74;miércoles 08 de febrero de 2017;Hyundai;121889;-109057.26
+J;Detroit;22536.38;miércoles 14 de junio de 2017;Mitsubishi;362567;-340030.62
+J;Detroit;23994.99;martes 15 de agosto de 2017;Mitsubishi;362567;-338572.01
+R;Detroit;42670.93;lunes 18 de diciembre de 2017;Seat;3396;39274.93
+N;Detroit;29866.73;lunes 15 de mayo de 2017;BMW;366207;-336340.27
+L;Detroit;35113.35;jueves 23 de marzo de 2017;Volkswagen;478975;-443861.65
+K;Detroit;9332.36;martes 16 de mayo de 2017;Toyota;509328;-499995.64
+E;Detroit;40205.22;viernes 19 de mayo de 2017;Kia;526617;-486411.78
+H;Detroit;6139.22;domingo 23 de julio de 2017;Renault;417019;-410879.78
+A;Detroit;5558.01;domingo 02 de abril de 2017;Mercedes-Benz;665685;-660126.99
+J;Detroit;34479.66;viernes 18 de agosto de 2017;Mitsubishi;362567;-328087.34
+E;Detroit;7035.29;domingo 10 de diciembre de 2017;Kia;526617;-519581.71
+F;Detroit;31016.73;lunes 23 de octubre de 2017;Citroen;361084;-330067.27
+C;Detroit;27457.23;domingo 10 de diciembre de 2017;Ford;145385;-117927.77
+H;Detroit;35933.84;domingo 22 de enero de 2017;Renault;417019;-381085.16
+R;Detroit;33153.44;miércoles 19 de julio de 2017;Seat;3396;29757.44
+P;Detroit;30588.54;jueves 07 de septiembre de 2017;Volvo;579877;-549288.46
+C;Detroit;5916.2;sábado 01 de abril de 2017;Ford;145385;-139468.8
+Q;Detroit;25141;jueves 14 de diciembre de 2017;Suzuki;121590;-96449
+J;Detroit;45499.54;sábado 22 de abril de 2017;Mitsubishi;362567;-317067.46
+G;Detroit;26765.9;martes 29 de agosto de 2017;Jeep;62985;-36219.1
+A;New York;7938.8;miércoles 30 de agosto de 2017;Mercedes-Benz;665685;-657746.2
+L;New York;15252.68;viernes 10 de noviembre de 2017;Volkswagen;478975;-463722.32
+F;New York;1087.33;viernes 24 de marzo de 2017;Citroen;361084;-359996.67
+H;New York;23674.53;jueves 16 de noviembre de 2017;Renault;417019;-393344.47
+A;New York;20401.61;martes 10 de octubre de 2017;Mercedes-Benz;665685;-645283.39
+U;New York;34290.62;viernes 20 de octubre de 2017;Nissan;56659;-22368.38
+Q;New York;43033.52;martes 11 de julio de 2017;Suzuki;121590;-78556.48
+I;New York;8904.34;miércoles 03 de mayo de 2017;Hyundai;121889;-112984.66
+M;New York;7706.26;viernes 24 de noviembre de 2017;Mazda;327078;-319371.74
+N;New York;32623.47;miércoles 01 de marzo de 2017;BMW;366207;-333583.53
+F;New York;40945.24;miércoles 21 de junio de 2017;Citroen;361084;-320138.76
+D;New York;18935.98;jueves 31 de agosto de 2017;Jaguar;384724;-365788.02
+N;New York;27634.67;lunes 16 de octubre de 2017;BMW;366207;-338572.33
+N;New York;14612.17;jueves 26 de octubre de 2017;BMW;366207;-351594.83
+S;New York;28471.87;lunes 13 de noviembre de 2017;Peugeot;287741;-259269.13
+Q;New York;35512.1;martes 13 de junio de 2017;Suzuki;121590;-86077.9
+L;New York;11189.6;jueves 16 de marzo de 2017;Volkswagen;478975;-467785.4
+D;New York;4577.24;jueves 19 de octubre de 2017;Jaguar;384724;-380146.76
+C;New York;24778.35;sábado 16 de septiembre de 2017;Ford;145385;-120606.65
+E;New York;34449.21;miércoles 04 de octubre de 2017;Kia;526617;-492167.79
+N;New York;24324.5;domingo 26 de noviembre de 2017;BMW;366207;-341882.5
+B;New York;15037.94;sábado 10 de junio de 2017;Audi;506811;-491773.06
+D;New York;27286.76;martes 22 de agosto de 2017;Jaguar;384724;-357437.24
+O;New York;22383.92;domingo 17 de diciembre de 2017;Fiat;117711;-95327.08
+I;New York;9175.21;domingo 26 de febrero de 2017;Hyundai;121889;-112713.79
+S;New York;40169.9;miércoles 08 de febrero de 2017;Peugeot;287741;-247571.1
+U;New York;36786.02;jueves 26 de octubre de 2017;Nissan;56659;-19872.98
+J;New York;25619.46;domingo 21 de mayo de 2017;Mitsubishi;362567;-336947.54
+E;New York;21768.23;jueves 29 de junio de 2017;Kia;526617;-504848.77
+O;New York;17740.26;jueves 06 de julio de 2017;Fiat;117711;-99970.74
+R;New York;5618.55;lunes 24 de julio de 2017;Seat;3396;2222.55
+T;New York;44804.24;domingo 16 de julio de 2017;Isuzu;288473;-243668.76
+A;New York;29501.74;miércoles 05 de abril de 2017;Mercedes-Benz;665685;-636183.26
+Q;New York;1069.22;domingo 03 de septiembre de 2017;Suzuki;121590;-120520.78
+N;New York;26028.41;viernes 24 de noviembre de 2017;BMW;366207;-340178.59
+O;New York;25927.05;martes 06 de junio de 2017;Fiat;117711;-91783.95
+O;New York;19215.04;sábado 12 de agosto de 2017;Fiat;117711;-98495.96
+J;New York;37271.43;miércoles 11 de enero de 2017;Mitsubishi;362567;-325295.57
+A;New York;4841.5;sábado 21 de octubre de 2017;Mercedes-Benz;665685;-660843.5
+K;New York;23866.3;jueves 23 de marzo de 2017;Toyota;509328;-485461.7
+C;New York;36937.23;sábado 24 de junio de 2017;Ford;145385;-108447.77
+L;New York;13808.08;lunes 20 de marzo de 2017;Volkswagen;478975;-465166.92
+O;New York;10478.58;martes 14 de febrero de 2017;Fiat;117711;-107232.42
+B;New York;40579.8;lunes 17 de julio de 2017;Audi;506811;-466231.2
+R;New York;39452.6;martes 15 de agosto de 2017;Seat;3396;36056.6
+S;New York;7606.87;sábado 21 de octubre de 2017;Peugeot;287741;-280134.13
+C;New York;9464.08;lunes 23 de octubre de 2017;Ford;145385;-135920.92
+J;New York;36742.71;miércoles 23 de agosto de 2017;Mitsubishi;362567;-325824.29
+T;New York;39653.33;jueves 31 de agosto de 2017;Isuzu;288473;-248819.67
+U;New York;13188.18;domingo 28 de mayo de 2017;Nissan;56659;-43470.82
+Q;New York;46453.53;miércoles 31 de mayo de 2017;Suzuki;121590;-75136.47
+K;New York;37049.23;sábado 05 de agosto de 2017;Toyota;509328;-472278.77
+D;New York;25828.96;martes 26 de diciembre de 2017;Jaguar;384724;-358895.04
+R;New York;47092.99;sábado 18 de marzo de 2017;Seat;3396;43696.99
+M;New York;7746.53;domingo 21 de mayo de 2017;Mazda;327078;-319331.47
+E;New York;8863.28;viernes 09 de junio de 2017;Kia;526617;-517753.72
+P;New York;31965.64;martes 23 de mayo de 2017;Volvo;579877;-547911.36
+K;New York;34120.17;lunes 07 de agosto de 2017;Toyota;509328;-475207.83
+S;New York;10960.27;sábado 18 de noviembre de 2017;Peugeot;287741;-276780.73
+F;New York;12425.07;viernes 19 de mayo de 2017;Citroen;361084;-348658.93
+S;New York;48469.47;miércoles 13 de diciembre de 2017;Peugeot;287741;-239271.53
+D;New York;10344.38;jueves 26 de octubre de 2017;Jaguar;384724;-374379.62
+R;New York;17246.84;lunes 07 de agosto de 2017;Seat;3396;13850.84
+J;New York;10981.84;sábado 12 de agosto de 2017;Mitsubishi;362567;-351585.16
+J;New York;46104.18;sábado 24 de junio de 2017;Mitsubishi;362567;-316462.82
+S;New York;43628.3;lunes 29 de mayo de 2017;Peugeot;287741;-244112.7
+I;New York;45497.19;viernes 06 de octubre de 2017;Hyundai;121889;-76391.81
+F;New York;13076.78;domingo 22 de enero de 2017;Citroen;361084;-348007.22
+M;New York;35595.84;domingo 30 de julio de 2017;Mazda;327078;-291482.16
+S;New York;12945.74;lunes 07 de agosto de 2017;Peugeot;287741;-274795.26
+G;New York;26159.4;viernes 09 de junio de 2017;Jeep;62985;-36825.6
+B;New York;23475.47;miércoles 10 de mayo de 2017;Audi;506811;-483335.53
+T;New York;31506.89;domingo 03 de diciembre de 2017;Isuzu;288473;-256966.11
+C;New York;47718.08;lunes 27 de febrero de 2017;Ford;145385;-97666.92
+T;New York;35410.17;miércoles 22 de noviembre de 2017;Isuzu;288473;-253062.83
+N;New York;7044.38;domingo 24 de septiembre de 2017;BMW;366207;-359162.62
+R;New York;20224.15;sábado 01 de abril de 2017;Seat;3396;16828.15
+G;New York;39550.13;miércoles 22 de febrero de 2017;Jeep;62985;-23434.87
+J;New York;10082.52;viernes 27 de enero de 2017;Mitsubishi;362567;-352484.48
+S;New York;32717.12;lunes 08 de mayo de 2017;Peugeot;287741;-255023.88
+T;New York;18017.24;martes 28 de noviembre de 2017;Isuzu;288473;-270455.76
+O;New York;44901.43;sábado 14 de enero de 2017;Fiat;117711;-72809.57
+O;New York;1545.95;miércoles 02 de agosto de 2017;Fiat;117711;-116165.05
+E;New York;16957.67;miércoles 14 de junio de 2017;Kia;526617;-509659.33
+I;New York;2568.2;miércoles 29 de noviembre de 2017;Hyundai;121889;-119320.8
+F;New York;34700.35;viernes 10 de marzo de 2017;Citroen;361084;-326383.65
+H;New York;11634.75;martes 12 de septiembre de 2017;Renault;417019;-405384.25
+D;New York;39817.24;miércoles 01 de marzo de 2017;Jaguar;384724;-344906.76
+Q;New York;49208.71;domingo 29 de octubre de 2017;Suzuki;121590;-72381.29
+L;New York;9378.08;viernes 08 de septiembre de 2017;Volkswagen;478975;-469596.92
+A;New York;8852.62;domingo 10 de septiembre de 2017;Mercedes-Benz;665685;-656832.38
+S;New York;2378.28;sábado 04 de noviembre de 2017;Peugeot;287741;-285362.72
+D;New York;41258.8;viernes 15 de diciembre de 2017;Jaguar;384724;-343465.2
+E;New York;17735.34;domingo 22 de octubre de 2017;Kia;526617;-508881.66
+T;New York;2695.39;jueves 22 de junio de 2017;Isuzu;288473;-285777.61
+P;New York;10266.67;viernes 06 de enero de 2017;Volvo;579877;-569610.33
+Q;New York;2502.19;martes 05 de diciembre de 2017;Suzuki;121590;-119087.81
+P;New York;36238.55;viernes 03 de marzo de 2017;Volvo;579877;-543638.45
+H;New York;40302.85;domingo 16 de abril de 2017;Renault;417019;-376716.15
+L;New York;3826.84;domingo 02 de julio de 2017;Volkswagen;478975;-475148.16
+I;New York;44553.62;domingo 05 de marzo de 2017;Hyundai;121889;-77335.38
+N;New York;2279.76;miércoles 12 de julio de 2017;BMW;366207;-363927.24
+S;New York;18398.02;jueves 16 de marzo de 2017;Peugeot;287741;-269342.98
+C;New York;20745.3;domingo 21 de mayo de 2017;Ford;145385;-124639.7
+D;New York;21652.96;sábado 07 de octubre de 2017;Jaguar;384724;-363071.04
+K;New York;18067.96;viernes 01 de septiembre de 2017;Toyota;509328;-491260.04
+F;New York;30628.55;jueves 28 de septiembre de 2017;Citroen;361084;-330455.45
